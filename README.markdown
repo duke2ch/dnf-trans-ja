@@ -3,6 +3,13 @@ Duke Nukem Forever 日本語化ファイル
 
 PC 版 DNF の非公式日本語翻訳ファイル。自分用にまったり進行中。
 
+備忘録
+------
+
+* 決まり文句は pallas d の訳文を定訳として翻訳する
+* [pallas d - Duke Nukem 3D Words Collection](http://web.archive.org/http://park3.wakwak.com/~pallas_d/duke/d3dwords/index.html)
+* [pallas d - Duke Nukem Forever Words Collection](http://web.archive.org/http://park3.wakwak.com/~pallas_d/duke/dnfwords/index.html)
+
 字幕ファイルのフォーマット
 --------------------------
 
@@ -19,8 +26,8 @@ DNF字幕関連ファイルの構成
         * **League_Gothic.ttf**: メニュー用フォント
     * System/
         * core.int
-        * **dnai.int**: 9割おわり
-        * **dndecorations.int**: 9割おわり
+        * **dnai.int**: 完了 要確認(in-game)
+        * **dndecorations.int**: 9 割完了 要確認(in-game)
         * dngame.int
         * dnvehicles.int
         * dnwindow.int
@@ -32,7 +39,7 @@ DNF字幕関連ファイルの構成
         * ipdrv.int
         * ipserver.int
         * loading.int
-        * **map00.int**: 8割終わり 一部要見直し
+        * **map00.int**: 9 割完了 要確認(in-game)
         * map01.int
         * map02.int
         * map03.int
