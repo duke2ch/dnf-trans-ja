@@ -40,7 +40,7 @@ DNF字幕関連ファイルの構成
         * ipserver.int
         * loading.int
         * **map00.int**: 9 割完了 要確認(in-game)
-        * map01.int
+        * **map01.int**: 翻訳開始
         * map02.int
         * map03.int
         * map04b.int
