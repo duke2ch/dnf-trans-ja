@@ -171,7 +171,7 @@ DialogText=EDF: 全員, 構えろ!
 DialogText=EDF: 怖い夢見ちゃうー.
 
 [TriggerDialog___63]
-DialogText=EDF: Sure taking your time there, Duke. You know what helps me? I like to think of the ocean. All that water, nice calm waves smashing into the shore...
+DialogText=EDF: どうぞごゆっくり. 私のやる気の源, 何だと思います? 海が好きなんですよ. 水で満たされ, 穏やかな波が海岸に打ちつける...
 
 [TriggerDialog___69]
 DialogText=Mary Holsom: それに明かり付けてる方が好きだと思ってたんだけど...
@@ -225,7 +225,7 @@ DialogText=EDF: 俺たちは今どうすりゃいいんだ?
 DialogText=EDF #3: マーカーを使ってあんたの戦略を教えてくれないか?
 
 [TriggerDialog___49]
-DialogText=Mary Holsom: もう相変わらずね...
+DialogText=Mary Holsom: きっと前みたいに打ち負かしちゃうわ...
 
 [TriggerDialog___56]
 DialogText=Mary Holsom: でも大統領が間違ってたらみんなを守るんでしょ?
@@ -324,7 +324,7 @@ DialogText=Duke: オ オーイェ, そこ, いいねぇ.
 DialogText=Duke: オーッ.
 
 [TriggerDialog___118]
-DialogText=Kate Holsom: タマタマで遊ぶのはお終い.
+DialogText=Kate Holsom: そっちの玉で遊ぶのはおしまいっ.
 
 [TriggerDialog___52]
 DialogText=Kate Holsom: (クスクス)
