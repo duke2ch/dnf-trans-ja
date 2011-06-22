@@ -5,7 +5,7 @@ DialogText=男: これはごきげんよう Duke.
 DialogText=女: こんにちは.
 
 [TriggerDialog___159]
-DialogText=Male: Bitch'n threads man.
+DialogText=男: Bitch'n threads man.
 
 [LookInfoActor___0]
 UsePhrase=喋る
@@ -20,40 +20,40 @@ DialogText=Philip: ありがとよ! メールチェックまで待てないぜ!
 DialogText=女: こんにちは.
 
 [TriggerDialog___39]
-DialogText=Johnny: Look at this place... it's like my ex-wife swept through with the divorce vacuum.
+DialogText=Johnny: ご覧よ... まるで俺の前妻が離婚の "虚しさ (= vacuum)" を掃いて回るようだ.
 
 [TriggerDialog___35]
-DialogText=Johnny: Guess you can't wait for those Duke Burger cell phone pics to hit the internet, huh? There's no such thing as bad advertising, right?
+DialogText=Johnny: Duke Burger の写メがネットで人気が出るのが待ち遠しいとみたがどうだい? こんなヒドい宣伝は他にないよ, そうだろ?
 
 [TriggerDialog___203]
 DialogText=女: あなたって実物はさらに素敵なのね.
 
 [TriggerDialog___204]
-DialogText=女: あなたの大ファンなの.
+DialogText=女: 私あなたの一番の大ファンよ.
 
 [TriggerDialog___205]
-DialogText=Female: What a man.
+DialogText=女: What a man.
 
 [TriggerDialog___105]
-DialogText=Female: What a man.
+DialogText=女: What a man.
 
 [TriggerDialog___106]
 DialogText=男: やぁ, どうだい?
 
 [TriggerDialog___107]
-DialogText=Female: Oh sure. Three days after I get married I meet Duke Nukem.
+DialogText=女: ええそうよ. 結婚の 3 日後に Duke Nukem に出会ったの.
 
 [TriggerDialog___123]
 DialogText=女: あなたって実物はさらに素敵なのね.
 
 [TriggerDialog___129]
-DialogText=Male: Wait until I tell my friends about this place.
+DialogText=男: 友達にココ教えるまで待ってくれ.
 
 [TriggerDialog___116]
-DialogText=Female: I love your place Duke. Very classy.
+DialogText=女: 私ココすごく好きよ. とってもお洒落.
 
 [TriggerDialog___115]
-DialogText=Male: You have got to be some kind of bad ass to own a joint like this. This place rules!
+DialogText=男:  You have got to be some kind of bad ass to own a joint like this. This place rules!
 
 [TriggerDialog___103]
 DialogText=女: あぁ Duke, あなたの子を孕みたくて仕方ないわ.
@@ -62,16 +62,16 @@ DialogText=女: あぁ Duke, あなたの子を孕みたくて仕方ないわ.
 DialogText=女: あなたの大ファンなの.
 
 [TriggerDialog___101]
-DialogText=Female: Want to go upstairs Duke? My boyfriend will watch.
+DialogText=女: ねぇ上に行かない? 私の彼ビックリするわよ.
 
 [TriggerDialog___100]
 DialogText=女: あなたって実物はさらに素敵なのね.
 
 [TriggerDialog___99]
-DialogText=Male: You kick some ass out there.
+DialogText=男: あんなのやっちまいな.
 
 [TriggerDialog___276]
-DialogText=男: 元気そうだね, Duke.
+DialogText=男: 元気そうだね Duke.
 
 [TriggerDialog___301]
 DialogText=男: あ, Nukem さん, こんにちはお疲れさまです.
@@ -108,646 +108,646 @@ DialogText=男: これはごきげんよう Duke.
 DialogText=男: こんにちは Nukem さん... お疲れさまです.
 
 [TriggerDialog___135]
-DialogText=Male: Kick some ass out there.
+DialogText=男: あんなのやっちまいな.
 
 [TriggerDialog___136]
-DialogText=Male: Hey everybody. Duke Nukem has entered the building.
+DialogText=男: よぉみんな. Duke Nukem のご来場だ
 
 [TriggerDialog___137]
-DialogText=男: 腕にあなたのサインのタトゥーを彫ったんだよ.
+DialogText=男: 腕にあんたのサインのタトゥーを彫ったんだよ.
 
 [TriggerDialog___133]
-DialogText=Male: Hey I'm a big fan of your work.
+DialogText=男: やぁ俺はあんたの偉業の大ファンだ.
 
 [TriggerDialog___117]
-DialogText=Male: You should record another album.
+DialogText=男: あんたは新アルバムを出すべきだ.
 
 [TriggerDialog___138]
-DialogText=Male: Loved your new movie Duke!
+DialogText=男: あんたの新作映画最高だよ Duke!
 
 [TriggerDialog___357]
-DialogText=Male: Ugh...
+DialogText=男: うぇぇ...
 
 [TriggerDialog___141]
-DialogText=Female: Hi there.
+DialogText=女: こんにちは.
 
 [TriggerDialog___300]
-DialogText=Talent: Good to see you Duke.
+DialogText=タレント: これはごきげんよう Duke.
 
 [TriggerDialog___299]
-DialogText=Talent: Oh, hey. What's up?
+DialogText=タレント: やぁ, これは. 最近どうだい?
 
 [TriggerDialog___298]
-DialogText=Talent: You know, you should record another album.
+DialogText=タレント: 分かってるだろうけど, 新しいアルバムを出すべきだよ.
 
 [TriggerDialog___297]
-DialogText=Talent: Man, I loved your new movie Duke.
+DialogText=タレント: なぁ, あんたの新作映画は最高だ.
 
 [TriggerDialog___296]
-DialogText=Talent: Hey everybody. Duke Nukem has entered the building.
+DialogText=タレント: よぉみんな. Duke Nukem のご来場だ.
 
 [TriggerDialog___295]
-DialogText=Talent: Kick some ass out there.
+DialogText=タレント: あんなのやっちまいな.
 
 [TriggerDialog___294]
-DialogText=Talent: Hello there Mr. Nukem, sir.
+DialogText=タレント: こんにちは Nukem さん, お疲れさまです.
 
 [TriggerDialog___293]
-DialogText=Talent: I'm a big fan of your work.
+DialogText=タレント: 私はあなたの偉業の大ファンなんです.
 
 [TriggerDialog___292]
-DialogText=Talent: Rock. Duke Nukem's here.
+DialogText=タレント: すげぇ. Duke Nukem がいる.
 
 [TriggerDialog___188]
-DialogText=Talent: Look'n good Duke.
+DialogText=タレント: 元気そうだね Duke.
 
 [TriggerDialog___98]
-DialogText=Talent: Hey, glad to see you Duke.
+DialogText=タレント: やぁ Duke, 会えて嬉しいよ.
 
 [TriggerDialog___371]
-DialogText=Male: I heard some guy walked up and started poking one of those Aliens in the arm. Now that takes guts.
+DialogText=男: エイリアン共に近寄って奴等を武器で攻撃し始めた奴等がいるんだってな. こんな時によくやるな.
 
 [TriggerDialog___370]
-DialogText=Male: Good to see you Duke.
+DialogText=男: これはごきげんよう Duke.
 
 [TriggerDialog___369]
-DialogText=Male: Hey, what's up?
+DialogText=男: やぁ, どうだい?
 
 [TriggerDialog___368]
-DialogText=Male: You should record another album.
+DialogText=男: あんたは新アルバムを出すべきだ.
 
 [TriggerDialog___367]
-DialogText=Male: I loved your new movie Duke.
+DialogText=男: 新作映画良かったですよ Duke.
 
 [TriggerDialog___366]
-DialogText=Male: I had your autograph tattooed on my arm.
+DialogText=男: 腕にあんたのサインのタトゥーを彫ったんだよ.
 
 [TriggerDialog___365]
-DialogText=Male: Hey, everybody. Duke Nukem has entered the building.
+DialogText=男: おいみんな. Duke Nukem のご来場だ.
 
 [TriggerDialog___364]
-DialogText=Male: Ah, right on.
+DialogText=男: Ah, right on.
 
 [TriggerDialog___363]
-DialogText=Male: You kick some ass out there.
+DialogText=男: あんな奴等やっちゃって下さいよ.
 
 [TriggerDialog___362]
-DialogText=Male: Uh, hello there Mr. Nukem sir.
+DialogText=男: えぇと, こんにちはお疲れさまです Nukem さん.
 
 [TriggerDialog___361]
-DialogText=Male: I'm a big fan of your work.
+DialogText=男: 私はあなたの偉業の大ファンなんです.
 
 [TriggerDialog___360]
-DialogText=Male: Rock, Duke Nukem's here.
+DialogText=男: やべぇ, Duke Nukem がいる.
 
 [TriggerDialog___359]
-DialogText=Male: Look'n good Duke.
+DialogText=男: 元気そうだね Duke.
 
 [TriggerDialog___358]
-DialogText=Male: Hey, glad to see you Duke.
+DialogText=男: やぁ Duke, 会えて嬉しいよ.
 
 [TriggerDialog___382]
-DialogText=Male: Good to see you Duke.
+DialogText=男: これはごきげんよう Duke.
 
 [TriggerDialog___381]
-DialogText=Male: Hey, what's up?
+DialogText=男: やぁ, どうだい?
 
 [TriggerDialog___380]
-DialogText=Male: You should record another album.
+DialogText=男: あんたは新アルバムを出すべきだ.
 
 [TriggerDialog___379]
-DialogText=Male: Loved your new movie Duke!
+DialogText=男: あんたの新作映画最高だよ Duke!
 
 [TriggerDialog___378]
-DialogText=Male: I had your autograph tattooed on my arm.
+DialogText=男: 腕にあんたのサインのタトゥーを彫ったんだよ.
 
 [TriggerDialog___377]
-DialogText=Male: Hey everybody. Duke Nukem has entered the building.
+DialogText=男: よぉみんな. Duke Nukem のご来場だ.
 
 [TriggerDialog___376]
-DialogText=Male: Kick some ass out there.
+DialogText=男: あんなのやっちまいな.
 
 [TriggerDialog___375]
-DialogText=Male: Hello there Mr. Nukem... sir.
+DialogText=男: こんにちは Nukem さん... お疲れさまです.
 
 [TriggerDialog___374]
-DialogText=Male: Hey I'm a big fan of your work.
+DialogText=男: やぁ俺はあんたの偉業の大ファンだ.
 
 [TriggerDialog___373]
-DialogText=Male: Look'n good Duke.
+DialogText=男: 元気そうだね Duke.
 
 [TriggerDialog___372]
-DialogText=Male: Hey, glad to see you Duke.
+DialogText=男: やぁ Duke, 会えて嬉しいよ.
 
 [TriggerDialog___186]
-DialogText=Male: Bitch'n threads man.
+DialogText=男: Bitch'n threads man.
 
 [TriggerDialog___185]
-DialogText=Male: Good to see you Duke.
+DialogText=男: これはごきげんよう Duke.
 
 [TriggerDialog___184]
-DialogText=Male: Hey, what's up?
+DialogText=男: やぁ, どうだい?
 
 [TriggerDialog___183]
-DialogText=Male: You should record another album.
+DialogText=男: あんたは新アルバムを出すべきだ.
 
 [TriggerDialog___182]
-DialogText=Male: Loved your new movie Duke.
+DialogText=男: あんたの新作映画気に入ったよ.
 
 [TriggerDialog___181]
-DialogText=Male: I had your autograph tattooed on to my arm.
+DialogText=男: あんたのサイン腕に彫ったんだ.
 
 [TriggerDialog___180]
-DialogText=Male: Hey everybody. Duke Nukem has entered the building.
+DialogText=男: よぉみんな. Duke Nukem のご来場だ.
 
 [TriggerDialog___179]
-DialogText=Male: Kick some ass out there.
+DialogText=男: あんなのやっちまいな.
 
 [TriggerDialog___178]
-DialogText=Male: Hello there, Mr. Nukem... sir.
+DialogText=男: こんにちは Nukem さん... そのお疲れさまです.
 
 [TriggerDialog___177]
-DialogText=Male: Look'n good Duke.
+DialogText=男: 元気そうだね Duke.
 
 [TriggerDialog___176]
-DialogText=Male: Hey, glad to see you Duke.
+DialogText=男: やぁ Duke, 会えて嬉しいよ.
 
 [TriggerDialog___313]
-DialogText=Male: Bitch'n threads man.
+DialogText=男: Bitch'n threads man.
 
 [TriggerDialog___312]
-DialogText=Male: Good to see you Duke.
+DialogText=男: これはごきげんよう Duke.
 
 [TriggerDialog___311]
-DialogText=Male: Hey, what's up?
+DialogText=男: やぁ, どうだい?
 
 [TriggerDialog___310]
-DialogText=Male: You should record another album.
+DialogText=男: あんたは新アルバムを出すべきだ.
 
 [TriggerDialog___309]
-DialogText=Male: Loved your new movie Duke.
+DialogText=男: あんたの新作映画気に入ったよ.
 
 [TriggerDialog___308]
-DialogText=Male: I had your autograph tattooed on to my arm.
+DialogText=男: あんたのサイン腕に彫ったんだ.
 
 [TriggerDialog___307]
-DialogText=Male: Hey everybody. Duke Nukem has entered the building.
+DialogText=男: よぉみんな. Duke Nukem のご来場だ.
 
 [TriggerDialog___306]
-DialogText=Male: Kick some ass out there.
+DialogText=男: あんなのやっちまいな.
 
 [TriggerDialog___305]
-DialogText=Male: Hello there, Mr. Nukem... sir.
+DialogText=男: こんにちは Nukem さん... そのお疲れさまです.
 
 [TriggerDialog___304]
-DialogText=Male: Look'n good Duke.
+DialogText=男: 元気そうだね Duke.
 
 [TriggerDialog___303]
-DialogText=Male: Hey, glad to see you Duke.
+DialogText=男: やぁ Duke, 会えて嬉しいよ.
 
 [TriggerDialog___289]
-DialogText=Male: Good to see you Duke.
+DialogText=男: これはごきげんよう Duke.
 
 [TriggerDialog___288]
-DialogText=Male: Hey, what's up?
+DialogText=男: やぁ, どうだい?
 
 [TriggerDialog___287]
-DialogText=Male: You should record another album.
+DialogText=男: あんたは新アルバムを出すべきだ.
 
 [TriggerDialog___285]
-DialogText=Male: I had your autograph tattooed on my arm.
+DialogText=男: 腕にあんたのサインのタトゥーを彫ったんだよ.
 
 [TriggerDialog___284]
-DialogText=Male: Hey, everybody. Duke Nukem has entered the building.
+DialogText=男: おいみんな. Duke Nukem のご来場だ.
 
 [TriggerDialog___283]
-DialogText=Male: Ah, right on.
+DialogText=男: Ah, right on.
 
 [TriggerDialog___282]
-DialogText=Male: You kick some ass out there.
+DialogText=男: あんな奴等やっちゃって下さいよ.
 
 [TriggerDialog___281]
-DialogText=Male: Uh, hello there Mr. Nukem sir.
+DialogText=男: えぇと, こんにちはお疲れさまです Nukem さん.
 
 [TriggerDialog___280]
-DialogText=Male: I'm a big fan of your work.
+DialogText=男: 私はあなたの偉業の大ファンなんです.
 
 [TriggerDialog___279]
-DialogText=Male: Rock, Duke Nukem's here.
+DialogText=男: やべぇ, Duke Nukem がいる.
 
 [TriggerDialog___278]
-DialogText=Male: Look'n good Duke.
+DialogText=男: 元気そうだね Duke.
 
 [TriggerDialog___277]
-DialogText=Male: Hey, glad to see you Duke.
+DialogText=男: やぁ Duke, 会えて嬉しいよ.
 
 [TriggerDialog___333]
-DialogText=Female: I love your place Duke. Very classy.
+DialogText=女: 私ココすごく好きよ. とってもお洒落.
 
 [TriggerDialog___332]
-DialogText=Female: What a man.
+DialogText=女: What a man.
 
 [TriggerDialog___331]
-DialogText=Female: I'm your biggest fan.
+DialogText=女: 私あなたの一番の大ファンよ.
 
 [TriggerDialog___330]
-DialogText=Female: You're even better looking in person.
+DialogText=女: あなたって実物はさらに素敵なのね.
 
 [TriggerDialog___329]
-DialogText=Female: Hi there.
+DialogText=女: こんにちは.
 
 [TriggerDialog___241]
-DialogText=Male: I heard some guy walked up and started poking one of those Aliens in the arm. Now that takes guts.
+DialogText=男: エイリアン共に近寄って奴等を武器で攻撃し始めた奴等がいるんだってな. こんな時によくやるな.
 
 [TriggerDialog___240]
-DialogText=Male: Good to see you Duke.
+DialogText=男: これはごきげんよう Duke.
 
 [TriggerDialog___239]
-DialogText=Male: Hey, what's up?
+DialogText=男: やぁ, どうだい?
 
 [TriggerDialog___238]
-DialogText=Male: You should record another album.
+DialogText=男: あんたは新アルバムを出すべきだ.
 
 [TriggerDialog___237]
-DialogText=Male: I loved your new movie Duke.
+DialogText=男: 新作映画良かったですよ Duke.
 
 [TriggerDialog___236]
-DialogText=Male: I had your autograph tattooed on my arm.
+DialogText=男: 腕にあんたのサインのタトゥーを彫ったんだよ.
 
 [TriggerDialog___235]
-DialogText=Male: Hey, everybody. Duke Nukem has entered the building.
+DialogText=男: おいみんな. Duke Nukem のご来場だ.
 
 [TriggerDialog___234]
-DialogText=Male: Ah, right on.
+DialogText=男: Ah, right on.
 
 [TriggerDialog___233]
-DialogText=Male: You kick some ass out there.
+DialogText=男: あんな奴等やっちゃって下さいよ.
 
 [TriggerDialog___231]
-DialogText=Male: I'm a big fan of your work.
+DialogText=男: 私はあなたの偉業の大ファンなんです.
 
 [TriggerDialog___230]
-DialogText=Male: Rock, Duke Nukem's here.
+DialogText=男: やべぇ, Duke Nukem がいる.
 
 [TriggerDialog___229]
-DialogText=Male: Look'n good Duke.
+DialogText=男: 元気そうだね Duke.
 
 [TriggerDialog___228]
-DialogText=Male: Hey, glad to see you Duke.
+DialogText=男: やぁ Duke, 会えて嬉しいよ.
 
 [TriggerDialog___275]
-DialogText=Male: Good to see you Duke.
+DialogText=男: これはごきげんよう Duke.
 
 [TriggerDialog___274]
-DialogText=Male: Hey, what's up?
+DialogText=男: やぁ, どうだい?
 
 [TriggerDialog___273]
-DialogText=Male: You should record another album.
+DialogText=男: あんたは新アルバムを出すべきだ.
 
 [TriggerDialog___272]
-DialogText=Male: Loved your new movie Duke!
+DialogText=男: あんたの新作映画最高だよ Duke!
 
 [TriggerDialog___271]
-DialogText=Male: I had your autograph tattooed on my arm.
+DialogText=男: 腕にあんたのサインのタトゥーを彫ったんだよ.
 
 [TriggerDialog___270]
-DialogText=Male: Hey everybody. Duke Nukem has entered the building.
+DialogText=男: よぉみんな. Duke Nukem のご来場だ.
 
 [TriggerDialog___269]
-DialogText=Male: Kick some ass out there.
+DialogText=男: あんなのやっちまいな.
 
 [TriggerDialog___268]
-DialogText=Male: Hello there Mr. Nukem... sir.
+DialogText=男: こんにちは Nukem さん... お疲れさまです.
 
 [TriggerDialog___267]
-DialogText=Male: Hey I'm a big fan of your work.
+DialogText=男: やぁ俺はあんたの偉業の大ファンだ.
 
 [TriggerDialog___266]
-DialogText=Male: Look'n good Duke.
+DialogText=男: 元気そうだね Duke.
 
 [TriggerDialog___264]
-DialogText=Male: Wait until I tell my friends about this place.
+DialogText=男: 友達にココ教えるまで待ってくれ.
 
 [TriggerDialog___223]
-DialogText=Female: I love your place Duke. Very classy.
+DialogText=女: 私ココすごく好きよ. とってもお洒落.
 
 [TriggerDialog___218]
-DialogText=Male: I heard some guy walked up and started poking one of those Aliens in the arm. Now that takes guts.
+DialogText=男: エイリアン共に近寄って奴等を武器で攻撃し始めた奴等がいるんだってな. こんな時によくやるな.
 
 [TriggerDialog___217]
-DialogText=Male: Good to see you Duke.
+DialogText=男: これはごきげんよう Duke.
 
 [TriggerDialog___216]
-DialogText=Male: Hey, what's up?
+DialogText=男: やぁ, どうだい?
 
 [TriggerDialog___215]
-DialogText=Male: You should record another album.
+DialogText=男: あんたは新アルバムを出すべきだ.
 
 [TriggerDialog___214]
-DialogText=Male: I loved your new movie Duke.
+DialogText=男: 新作映画良かったですよ Duke.
 
 [TriggerDialog___213]
-DialogText=Male: I had your autograph tattooed on my arm.
+DialogText=男: 腕にあんたのサインのタトゥーを彫ったんだよ.
 
 [TriggerDialog___212]
-DialogText=Male: Hey, everybody. Duke Nukem has entered the building.
+DialogText=男: おいみんな. Duke Nukem のご来場だ.
 
 [TriggerDialog___211]
-DialogText=Male: Ah, right on.
+DialogText=男: Ah, right on.
 
 [TriggerDialog___210]
-DialogText=Male: You kick some ass out there.
+DialogText=男: あんな奴等やっちゃって下さいよ.
 
 [TriggerDialog___209]
-DialogText=Male: Uh, hello there Mr. Nukem sir.
+DialogText=男: えぇと, こんにちはお疲れさまです Nukem さん.
 
 [TriggerDialog___208]
-DialogText=Male: I'm a big fan of your work.
+DialogText=男: 私はあなたの偉業の大ファンなんです.
 
 [TriggerDialog___207]
-DialogText=Male: Rock, Duke Nukem's here.
+DialogText=男: やべぇ, Duke Nukem がいる.
 
 [TriggerDialog___160]
-DialogText=Male: Look'n good Duke.
+DialogText=男: 元気そうだね Duke.
 
 [TriggerDialog___150]
-DialogText=Male: Hey, glad to see you Duke.
+DialogText=男: やぁ Duke, 会えて嬉しいよ.
 
 [TriggerDialog___128]
-DialogText=Female: I love your place Duke. Very classy.
+DialogText=女: 私ココすごく好きよ. とってもお洒落.
 
 [TriggerDialog___127]
-DialogText=Female: What a man.
+DialogText=女: What a man.
 
 [TriggerDialog___126]
-DialogText=Female: I'm your biggest fan.
+DialogText=女: 私あなたの一番の大ファンよ.
 
 [TriggerDialog___125]
-DialogText=Female: You're even better looking in person.
+DialogText=女: あなたって実物はさらに素敵なのね.
 
 [TriggerDialog___124]
-DialogText=Female: Hi there.
+DialogText=女: こんにちは.
 
 [TriggerDialog___149]
-DialogText=Male: Good to see you Duke.
+DialogText=男: これはごきげんよう Duke.
 
 [TriggerDialog___286]
-DialogText=Male: I loved your new movie Duke.
+DialogText=男: 新作映画良かったですよ Duke.
 
 [TriggerDialog___232]
-DialogText=Male: Uh, hello there Mr. Nukem sir.
+DialogText=男: えぇと, こんにちはお疲れさまです Nukem さん.
 
 [TriggerDialog___290]
-DialogText=Male: I heard some guy walked up and started poking one of those Aliens in the arm. Now that takes guts.
+DialogText=男: エイリアン共に近寄って奴等を武器で攻撃し始めた奴等がいるんだってな. こんな時によくやるな.
 
 [TriggerDialog___337]
-DialogText=Stagehand: I'm a big fan of your work.
+DialogText=舞台係: 私はあなたの偉業の大ファンなんです.
 
 [TriggerDialog___338]
-DialogText=Stagehand: Hello there Mr. Nukem, sir.
+DialogText=舞台係: こんにちは Nukem さん, お疲れさまです.
 
 [TriggerDialog___110]
-DialogText=Male: Hello there Mr. Nukem... sir.
+DialogText=男: こんにちは Nukem さん... お疲れさまです.
 
 [TriggerDialog___348]
-DialogText=Stagehand: Rock. Duke Nukem's here.
+DialogText=舞台係: すげぇ. Duke Nukem がいる.
 
 [TriggerDialog___336]
-DialogText=Stagehand: Rock. Duke Nukem's here.
+DialogText=舞台係: すげぇ. Duke Nukem がいる.
 
 [TriggerDialog___335]
-DialogText=Stagehand: Look'n good Duke.
+DialogText=舞台係: 元気そうだね Duke.
 
 [TriggerDialog___143]
-DialogText=Female: I'm your biggest fan.
+DialogText=女: 私あなたの一番の大ファンよ.
 
 [TriggerDialog___142]
-DialogText=Female: You're even better looking in person.
+DialogText=女: あなたって実物はさらに素敵なのね.
 
 [TriggerDialog___112]
-DialogText=Male: Kick some ass out there.
+DialogText=男: あんなのやっちまいな.
 
 [TriggerDialog___315]
-DialogText=Male: Look'n good Duke.
+DialogText=男: 元気そうだね Duke.
 
 [TriggerDialog___334]
-DialogText=Stagehand: Hey, glad to see you Duke.
+DialogText=舞台係: やぁ Duke, 会えて嬉しいよ.
 
 [TriggerDialog___318]
-DialogText=Male: Uh, hello there Mr. Nukem sir.
+DialogText=男: えぇと, こんにちはお疲れさまです Nukem さん.
 
 [TriggerDialog___206]
-DialogText=Female: I love your place Duke. Very classy.
+DialogText=女: 私ココすごく好きよ. とってもお洒落.
 
 [TriggerDialog___314]
-DialogText=Male: Hey, glad to see you Duke.
+DialogText=男: やぁ Duke, 会えて嬉しいよ.
 
 [TriggerDialog___316]
-DialogText=Male: Rock, Duke Nukem's here.
+DialogText=男: やべぇ, Duke Nukem がいる.
 
 [TriggerDialog___325]
-DialogText=Male: Hey, what's up?
+DialogText=男: やぁ, どうだい?
 
 [TriggerDialog___219]
-DialogText=Female: Hi there.
+DialogText=女: こんにちは.
 
 [TriggerDialog___156]
-DialogText=Female: I'm your biggest fan!
+DialogText=女: 私あなたの一番の大ファンなの!
 
 [TriggerDialog___349]
-DialogText=Stagehand: I'm a big fan of your work.
+DialogText=舞台係: 私はあなたの偉業の大ファンなんです.
 
 [TriggerDialog___151]
-DialogText=Female: Hi there.
+DialogText=女: こんにちは.
 
 [TriggerDialog___351]
-DialogText=Stagehand: Kick some ass out there.
+DialogText=舞台係: あんなのやっちまいな.
 
 [TriggerDialog___319]
-DialogText=Male: You kick some ass out there.
+DialogText=男: あんな奴等やっちゃって下さいよ.
 
 [TriggerDialog___144]
-DialogText=Female: What a man.
+DialogText=女: What a man.
 
 [TriggerDialog___352]
-DialogText=Stagehand: Hey everybody. Duke Nukem has entered the building.
+DialogText=舞台係: よぉみんな. Duke Nukem のご来場だ.
 
 [TriggerDialog___344]
-DialogText=Stagehand: Good to see you Duke.
+DialogText=舞台係: これはごきげんよう Duke.
 
 [TriggerDialog___343]
-DialogText=Stagehand: Oh, hey. What's up?
+DialogText=舞台係: やぁ, これは. 最近どうだい?
 
 [TriggerDialog___139]
-DialogText=Male: Wait until I tell my friends about this place.
+DialogText=男: 友達にココ教えるまで待ってくれ.
 
 [TriggerDialog___321]
-DialogText=Male: Hey, everybody. Duke Nukem has entered the building.
+DialogText=男: おいみんな. Duke Nukem のご来場だ.
 
 [TriggerDialog___353]
-DialogText=Stagehand: Man, I loved your new movie Duke.
+DialogText=舞台係: なぁ, あんたの新作映画は最高だ.
 
 [TriggerDialog___327]
-DialogText=Male: I heard some guy walked up and started poking one of those Aliens in the arm. Now that takes guts.
+DialogText=男: エイリアン共に近寄って奴等を武器で攻撃し始めた奴等がいるんだってな. こんな時によくやるな.
 
 [TriggerDialog___347]
-DialogText=Stagehand: Look'n good Duke.
+DialogText=舞台係: 元気そうだね Duke.
 
 [TriggerDialog___339]
-DialogText=Stagehand: Kick some ass out there.
+DialogText=舞台係: あんなのやっちまいな.
 
 [TriggerDialog___15]
-DialogText=Father: Yeah, I thought he'd be taller.
+DialogText=父親: そうだな, もっとお高い奴だと思ってたよ.
 
 [TriggerDialog___118]
-DialogText=Male: Hey everybody. Duke Nukem has entered the building.
+DialogText=男: よぉみんな. Duke Nukem のご来場だ.
 
 [TriggerDialog___104]
-DialogText=Male: Glad to see you Duke.
+DialogText=男: お会いできて光栄だよ Duke.
 
 [TriggerDialog___320]
-DialogText=Male: Ah, right on.
+DialogText=男: Ah, right on.
 
 [TriggerDialog___23]
-DialogText=Talent: Do you want me to trash your mics? Would you like me to trash your mics?
+DialogText=タレント: お前のマイク壊してほしいの? マイク壊して差し上げようか?
 
 [TriggerDialog___317]
-DialogText=Male: I'm a big fan of your work.
+DialogText=男: 私はあなたの偉業の大ファンなんです.
 
 [TriggerDialog___147]
-DialogText=Male: You should record another album.
+DialogText=男: あんたは新アルバムを出すべきだ.
 
 [TriggerDialog___356]
-DialogText=Stagehand: Good to see you Duke.
+DialogText=舞台係: これはごきげんよう Duke.
 
 [TriggerDialog___34]
-DialogText=Loudspeaker: Ladies and Gentlemen, due to technical difficulties, the Duke Museum is now closing. Please make your way to the marked exit gates.
+DialogText=スピーカー: ご来場の皆様, 当 Duke Nukem Museum は技術的な問題により, 只今より閉館いたします. 出口の方へお急ぎ下さい.
 
 [TriggerDialog___341]
-DialogText=Stagehand: Man, I loved your new movie Duke.
+DialogText=舞台係: なぁ, あんたの新作映画は最高だ.
 
 [TriggerDialog___119]
-DialogText=Male: I had your autograph tattooed on my arm.
+DialogText=男: 腕にあんたのサインのタトゥーを彫ったんだよ.
 
 [TriggerDialog___157]
-DialogText=Female: Oh Duke, I so want to have your babies!
+DialogText=女: あぁ Duke, あなたの子を孕みたくて仕方ないの!
 
 [TriggerDialog___148]
-DialogText=Male: Hey, what's up?
+DialogText=男: やぁ, どうだい?
 
 [TriggerDialog___3]
-DialogText=Male: Hey, glad to see you Duke.
+DialogText=男: やぁ Duke, 会えて嬉しいよ.
 
 [TriggerDialog___340]
-DialogText=Stagehand: Hey everybody. Duke Nukem has entered the building.
+DialogText=舞台係: よぉみんな. Duke Nukem のご来場だ.
 
 [TriggerDialog___145]
-DialogText=Female: I love your place Duke. Very classy.
+DialogText=女: 私ココすごく好きよ. とってもお洒落.
 
 [TriggerDialog___155]
-DialogText=Female: Gotta remain professional... mustn't fangirl... must... not... fangirl. But OHMYGOD it's Duke Nukem!
+DialogText=女: Gotta remain professional... mustn't fangirl... must... not... fangirl. But OHMYGOD it's Duke Nukem!
 
 [TriggerDialog___154]
-DialogText=Female: Oh sure, 3 days after I get married, I meet Duke Nukem...
+DialogText=女: そう, 結婚の 3 日後に Duke Nukem に出会ったの...
 
 [TriggerDialog___153]
-DialogText=Female: After the show, I want your autograph somewhere special.
+DialogText=女: ショーのあと... 私の大切なところにサインしてほしいの.
 
 [TriggerDialog___152]
-DialogText=Female: You're even better looking in person.
+DialogText=女: あなたって実物はさらに素敵なのね.
 
 [TriggerDialog___221]
-DialogText=Female: I'm your biggest fan.
+DialogText=女: 私あなたの一番の大ファンよ.
 
 [TriggerDialog___113]
 DialogText=Duke: Take your pills... er, vitamins every day, and you might grow up to be as awesome as me.
 
 [TriggerDialog___146]
-DialogText=Male: Loved your new movie Duke!
+DialogText=男: あんたの新作映画最高だよ Duke!
 
 [TriggerDialog___94]
-DialogText=Male: Good to see you Duke.
+DialogText=男: これはごきげんよう Duke.
 
 [TriggerDialog___220]
-DialogText=Female: You're even better looking in person.
+DialogText=女: あなたって実物はさらに素敵なのね.
 
 [TriggerDialog___354]
-DialogText=Stagehand: You know, you should record another album.
+DialogText=舞台係: 分かってるだろうけど, 新しいアルバムを出すべきだよ.
 
 [TriggerDialog___10]
 DialogText=Duke: I gotta find out what the hell is going on around here.
 
 [TriggerDialog___322]
-DialogText=Male: I had your autograph tattooed on my arm.
+DialogText=男: 腕にあんたのサインのタトゥーを彫ったんだよ.
 
 [TriggerDialog___5]
-DialogText=Male: Boom!
+DialogText=男: Boom!
 
 [TriggerDialog___326]
-DialogText=Male: Good to see you Duke.
+DialogText=男: これはごきげんよう Duke.
 
 [TriggerDialog___346]
-DialogText=Stagehand: Hey, glad to see you Duke.
+DialogText=舞台係: やぁ Duke, 会えて嬉しいよ.
 
 [TriggerDialog___9]
 DialogText=Johnny: On slow days, all I hear is "Johnny, Johnny, Johnny," but a couple of those aliens come down and suddenly it's all news, all channels.
 
 [TriggerDialog___323]
-DialogText=Male: I loved your new movie Duke.
+DialogText=男: 新作映画良かったですよ Duke.
 
 [TriggerDialog___350]
-DialogText=Stagehand: Hello there Mr. Nukem, sir.
+DialogText=舞台係: こんにちは Nukem さん, お疲れさまです.
 
 [TriggerDialog___324]
-DialogText=Male: You should record another album.
+DialogText=男: あんたは新アルバムを出すべきだ.
 
 [TriggerDialog___342]
-DialogText=Stagehand: You know, you should record another album.
+DialogText=舞台係: 分かってるだろうけど, 新しいアルバムを出すべきだよ.
 
 [TriggerDialog___222]
-DialogText=Female: What a man.
+DialogText=女: What a man.
 
 [TriggerDialog___114]
-DialogText=Kid: Wow! He's so cool!
+DialogText=子供: すごいよ! すごいかっこいい!
 
 [TriggerDialog___355]
-DialogText=Stagehand: Oh, hey. What's up?
+DialogText=舞台係: やぁ, これは. 最近どうだい?
 
 [TriggerDialog___158]
-DialogText=Female: Hope you're free after the show.
+DialogText=女: ショーのあと空いてるといいんだけど.
 
 [TriggerDialog___47]
-DialogText=Male: Hell yeah! Who's the man?
+DialogText=男: Hell yeah! Who's the man?
 
 [TriggerDialog___17]
-DialogText=Kid: I want to grow up to be just like you!
+DialogText=子供: 僕 Nukem さんみたいになれたらって!
 
 [TriggerDialog___30]
 DialogText=Johnny: I'll hook you up with my assistant to reschedule. She'll take care of you. I promise.
 
 [TriggerDialog___18]
-DialogText=Kid: Wow, thank you, Mr. Nukem!
+DialogText=子供: やったぁ, ありがとう Nukem さん!
 
 [TriggerDialog___13]
-DialogText=Kid: Mr. Nukem! Will you sign this for me?
+DialogText=子供: Nukem さん! サインもらえませんか?
 
 [TriggerDialog___11]
 DialogText=Johnny: Half the damn crew has left to see what they're up to at Duke Burger. Gotta wonder if they timed it with you coming on the show and all.
 
 [TriggerDialog___85]
-DialogText=Female: You're even better looking in person.
+DialogText=女: あなたって実物はさらに素敵なのね.
 
 [TriggerDialog___27]
-DialogText=Talent: You fucking amateur. We're done. We're done professionally, man.
+DialogText=タレント: この未熟者が. 終わった. 仕事は終わったんだよ, なぁ.
 
 [TriggerDialog___28]
-DialogText=Talent: You fucking amateur, are you kidding me?
+DialogText=タレント: お前未熟過ぎるんだよ, ふざけてんのか?
 
 [TriggerDialog___70]
-DialogText=Female: After the show, I want your autograph somewhere special.
+DialogText=女: ショーのあと... 私の大切なところにサインしてほしいの.
 
 [TriggerDialog___22]
-DialogText=Talent: You never stopped to wonder if it might be distracting with you walking through?
+DialogText=タレント: You never stopped to wonder if it might be distracting with you walking through?
 
 [TriggerDialog___14]
 DialogText=Father: Excuse me, Duke Nukem? Yeah, my kid's a real big fan. Go on and ask him, Jimmy.
@@ -756,178 +756,178 @@ DialogText=Father: Excuse me, Duke Nukem? Yeah, my kid's a real big fan. Go on a
 DialogText=Duke: Sure, kid. But I better not find this on eBay.
 
 [TriggerDialog___31]
-DialogText=Male: Hey, glad to see you, Duke.
+DialogText=男: Hey, glad to see you, Duke.
 
 [TriggerDialog___72]
-DialogText=Female: Gotta remain professional... mustn't fangirl... must... not... fangirl. But OHMYGOD it's Duke Nukem!
+DialogText=女: Gotta remain professional... mustn't fangirl... must... not... fangirl. But OHMYGOD it's Duke Nukem!
 
 [TriggerDialog___32]
-DialogText=Male: Hey, glad to see you Duke.
+DialogText=男: やぁ Duke, 会えて嬉しいよ.
 
 [TriggerDialog___88]
-DialogText=Male: Yea? and...?
+DialogText=男: Yea? and...?
 
 [TriggerDialog___33]
-DialogText=Loudspeaker: Ladies and Gentlemen, we are experiencing temporary power fluctuations. Please bear with us and enjoy your stay at Duke Nukem's Lady Killer Casino.
+DialogText=スピーカー: ご来場の皆様, 現在一時的な電源の不都合が発生して折ります. 恐れ入りますが Duke Nukem's Lady Killer Casino への移動をお願いいたします.
 
 [TriggerDialog___73]
-DialogText=Female: I'm your biggest fan!
+DialogText=女: 私あなたの一番の大ファンなの!
 
 [TriggerDialog___74]
-DialogText=Female: Oh Duke, I so want to have your babies!
+DialogText=女: あぁ Duke, あなたの子を孕みたくて仕方ないの!
 
 [TriggerDialog___69]
-DialogText=Female: You're even better looking in person.
+DialogText=女: あなたって実物はさらに素敵なのね.
 
 [TriggerDialog___60]
-DialogText=Female: You're even better looking in person.
+DialogText=女: あなたって実物はさらに素敵なのね.
 
 [TriggerDialog___37]
-DialogText=Female: After the show... I want your autograph somewhere special.
+DialogText=女: ショーのあと... 私の大切なところにサインしてほしいの.
 
 [TriggerDialog___19]
 DialogText=Johnny: Ah... sorry Duke. It looks like they're shuttin' us down for the night.
 
 [TriggerDialog___20]
-DialogText=Stagehand: Ah, thanks, Duke. That guy was a douche.
+DialogText=舞台係: 恩に着るよ. イライラさせる奴なんだ.
 
 [TriggerDialog___87]
-DialogText=Male: The aliens have returned! Run!
+DialogText=男: エイリアン共が復讐に来やがった! 逃げろ!
 
 [TriggerDialog___29]
-DialogText=Security Guard: Hey, what's up?
+DialogText=Security 警備員: やぁ, どうだい?
 
 [TriggerDialog___40]
-DialogText=Talent: You're a nice guy... you're a nice guy, but you don't get it. Fuck!
+DialogText=タレント: お前は良い奴だ... そうさ良い奴だが, 分かってないんだよ, クソ!
 
 [TriggerDialog___45]
-DialogText=Female: Hi there.
+DialogText=女: こんにちは.
 
 [TriggerDialog___41]
-DialogText=TV: Eyewitnesses have confirmed that several aliens have descended from the mothership and, um, are now reportedly in line at the Duke Burger on the Vegas strip.
+DialogText=TV: 目撃情報によるとエイリアン数体が母艦より降下し, えー, 情報によると Vegas 滑走路の Duke Burger に並んでいるとの事です.
 
 [TriggerDialog___42]
-DialogText=Male: Bitch'n threads man!
+DialogText=男: Bitch'n threads man!
 
 [TriggerDialog___43]
-DialogText=Male: Uh, hello there Mr. Nukem sir. heh.
+DialogText=男: えぇと, こんにちはお疲れさまです Nukem さん. あわわ.
 
 [TriggerDialog___38]
-DialogText=TV: We interrupt this broadcast for a special news bulletin.
+DialogText=TV: 番組の途中ですが特別ニュース速報をお送りします.
 
 [TriggerDialog___75]
-DialogText=Female: Hope you're free after the show.
+DialogText=女: Hope you're free after the show.
 
 [TriggerDialog___24]
-DialogText=Talent: You don't fucking get it. The scene's done. Now, the rest of the crew left for Duke Burger, and my moment with Johnny is over.
+DialogText=タレント: お前は何も分かってない. さっきのシーンは終わった. 残りの撮影班は Duke Burger に行きやがったし, 俺と Johnny との時間は終わった.
 
 [TriggerDialog___91]
-DialogText=Male: Hey, glad to see you Duke.
+DialogText=男: やぁ Duke, 会えて嬉しいよ.
 
 [TriggerDialog___92]
-DialogText=Male: Looking good Duke!
+DialogText=男: 元気そうじゃないか Duke!
 
 [TriggerDialog___90]
-DialogText=Female: I love your place Duke. Very classy.
+DialogText=女: 私ココすごく好きよ. とってもお洒落.
 
 [TriggerHint___0]
-Message=Head to the Observation Room to access the Duke Cave
+Message=Duke Cave に入るため Observation Room へ向かえ
 
 [TriggerDialog___65]
-DialogText=Female: Oh Duke, I so want to have your babies!
+DialogText=女: あぁ Duke, あなたの子を孕みたくて仕方ないの!
 
 [TriggerDialog___68]
-DialogText=Female: Hi there.
+DialogText=女: こんにちは.
 
 [TriggerDialog___67]
-DialogText=Female: (whistle)
+DialogText=女: (口笛)
 
 [TriggerDialog___51]
-DialogText=TV: We will update you as further information becomes available. This has been a News 17 Special Report.
+DialogText=TV: 新たな情報は入り次第お知らせします. News 17 Special Report でした.
 
 [TriggerDialog___76]
-DialogText=Male: I named my daughter Dukette! I even got her tiny toy rocket launchers to play with! I hope she grows up to be just like you!
+DialogText=男: I named my daughter Dukette! I even got her tiny toy rocket launchers to play with! I hope she grows up to be just like you!
 
 [TriggerDialog___62]
-DialogText=Male: Hey, glad to see you Duke.
+DialogText=男: やぁ Duke, 会えて嬉しいよ.
 
 [TriggerDialog___50]
-DialogText=TV: No hostility has been observed. Citizens are advised to remain calm but keep a safe distance from the visitors.
+DialogText=TV: 敵意はないようです. 市民の皆さんは落ち着いて, 訪問者からは距離を取る事を推奨します.
 
 [TriggerDialog___49]
-DialogText=Stagehand: Look'n good Duke!
+DialogText=舞台係: 元気そうだね Duke!
 
 [TriggerDialog___61]
-DialogText=Male: Wait until I tell my friends about this place.
+DialogText=男: 友達にココ教えるまで待ってくれ.
 
 [TriggerDialog___8]
-DialogText=Talent: Hey, what's up?
+DialogText=タレント: やぁ, どうだい?
 
 [TriggerDialog___26]
-DialogText=Talent: Thanks to the aliens, I'll never get that moment back.
+DialogText=タレント: エイリアンのおかげだよ, あの瞬間は取り戻せない.
 
 [TriggerDialog___21]
-DialogText=Talent: I'm trying to do a scene with Johnny on the show, and there you are wandering through the set.
+DialogText=タレント: さっきのショーで Johnny とのシーンをやろうとしてたら, お前がセットごしをブラブラしやがって.
 
 [TriggerDialog___265]
-DialogText=Loudspeaker: Ladies and Gentlemen, due to technical difficulties, the Duke Museum is now closing. Please make your way to the marked exit gates.
+DialogText=スピーカー: ご来場の皆様, 当 Duke Nukem Museum は技術的な問題により, 只今より閉館いたします. 出口の方へお急ぎ下さい.
 
 [TriggerDialog___96]
-DialogText=Male: What's up.
+DialogText=男: What's up.
 
 [TriggerDialog___83]
-DialogText=Male: Rock! Duke Nukem's here!
+DialogText=男: おお! 本物の Duke Nukem だ!
 
 [TriggerDialog___80]
-DialogText=Talent: It's happening all over again. I was there, 12 years ago, I was there! Oh god, maybe they're after me!
+DialogText=タレント: It's happening all over again. I was there, 12 years ago, I was there! Oh god, maybe they're after me!
 
 [TriggerDialog___79]
-DialogText=Talent: Hey, Duke! Did you see the report? Are those the same guys you fought back in the day?
+DialogText=タレント: Hey, Duke! Did you see the report? Are those the same guys you fought back in the day?
 
 [TriggerDialog___78]
-DialogText=Male: Wait until I tell my friends about this place.
+DialogText=男: 友達にココ教えるまで待ってくれ.
 
 [TriggerDialog___81]
-DialogText=Male: Hey, what's up.
+DialogText=男: Hey, what's up.
 
 [TriggerDialog___84]
-DialogText=Male: Got some coffee for ya, help yourself.
+DialogText=男: コーヒーどうぞ, ご自由に.
 
 [TriggerDialog___77]
-DialogText=Male: You should record another album.
+DialogText=男: あんたは新アルバムを出すべきだ.
 
 [TriggerDialog___71]
-DialogText=Female: Oh sure, 3 days after I get married, I meet Duke Nukem...
+DialogText=女: そう, 結婚の 3 日後に Duke Nukem に出会ったの...
 
 [TriggerDialog___48]
-DialogText=Male: Gotta remain professional... gotta remain professional... mustn't fanboy... must... not... fanboy. But OHMYGOD it's Duke Nukem!
+DialogText=男: Gotta remain professional... gotta remain professional... mustn't fanboy... must... not... fanboy. But OHMYGOD it's Duke Nukem!
 
 [TriggerDialog___64]
-DialogText=Female: I'm your biggest fan!
+DialogText=女: 私あなたの一番の大ファンなの!
 
 [TriggerDialog___59]
-DialogText=Female: Hi there.
+DialogText=女: こんにちは.
 
 [TriggerDialog___66]
-DialogText=Male: Hey I'm a big fan of your work.
+DialogText=男: やぁ俺はあんたの偉業の大ファンだ.
 
 [TriggerDialog___63]
-DialogText=Male: Look'n good Duke.
+DialogText=男: 元気そうだね Duke.
 
 [TriggerDialog___95]
-DialogText=Male: Ah, hello there Mr. Nukem sir.
+DialogText=男: あ, Nukem さん, こんにちはお疲れさまです.
 
 [TriggerDialog___82]
-DialogText=Male: I'm a big fan of your work.
+DialogText=男: 私はあなたの偉業の大ファンなんです.
 
 [TriggerDialog___89]
-DialogText=Female: What a man.
+DialogText=女: What a man.
 
 [TriggerDialog___97]
-DialogText=Male: I heard some guy walked up and started poking one of those aliens in the arm, now that takes guts.
+DialogText=男: エイリアン共に近寄って奴等を武器で攻撃し始めた奴等がいるんだってな. こんな時によくやるな.
 
 [TriggerDialog___86]
-DialogText=Male: Why doesn't somebody do something to protect us? Isn't this what we pay the government for?
+DialogText=男: 何で誰も何もしないの? 守ってくれないの? そのための税金じゃないの?
 
 [TriggerDialog___12]
 DialogText=Johnny: Want to come back in a few hours? We might go hit the tables.
