@@ -6,9 +6,9 @@ PC 版 DNF の非公式日本語翻訳ファイル。自分用にまったり進
 備忘録
 ------
 
-* 決まり文句は pallas d の訳文を定訳として翻訳する
-* [pallas d - Duke Nukem 3D Words Collection](http://web.archive.org/http://park3.wakwak.com/~pallas_d/duke/d3dwords/index.html)
-* [pallas d - Duke Nukem Forever Words Collection](http://web.archive.org/http://park3.wakwak.com/~pallas_d/duke/dnfwords/index.html)
+* 決まり文句は基本 pallas d の訳文を定訳として翻訳する
+    * [pallas d - Duke Nukem 3D Words Collection](http://web.archive.org/http://park3.wakwak.com/~pallas_d/duke/d3dwords/index.html)
+    * [pallas d - Duke Nukem Forever Words Collection](http://web.archive.org/http://park3.wakwak.com/~pallas_d/duke/dnfwords/index.html)
 
 字幕ファイルのフォーマット
 --------------------------
