@@ -297,7 +297,7 @@ DialogText=EDF #1: そうだ! 準備はいいか? 1, 2... ブレイク!
 DialogText=EDF #2: えぇと, 潰す?
 
 [TriggerDialog___103]
-DialogText=EDF #1: ステップ 1 よし! Alpha Team 真ん中直進! Blake と Flank は左! Phillips と俺は周回だ. それがステップ 2. ステップ 3 は... えぇと...
+DialogText=EDF #1: ステップ 1 よし! Alpha Team は真正面から! Blake と Flank は左! Phillips と俺は周回だ. それがステップ 2. ステップ 3 は... えぇと...
 
 [TriggerDialog___104]
 DialogText=EDF #3: やっちまえ, この作戦なら行ける!
