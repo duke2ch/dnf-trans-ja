@@ -26,8 +26,9 @@ PC 版 DNF の非公式日本語翻訳ファイル。自分用にまったり進
     * `ja`: 作業ファイル用ディレクトリ
         * `dnai.int`: 完了 要確認
         * `dndecorations.int`: 9 割完了 要確認
-        * `map00.int`: 9 割完了 要確認
-        * `map01.int`: 9 割完了 要確認
+        * `map00.ja`: 9 割完了 要確認
+        * `map01.ja`: 9 割完了 要確認
+        * `map02.ja`: 9割完了 要確認
     * `build.sh`: 字幕ファイル生成用スクリプト
     * `install.js`: 字幕ファイルインストール用スクリプト
     * `README.markdown`: 説明

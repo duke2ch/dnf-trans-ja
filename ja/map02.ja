@@ -1,0 +1,200 @@
+[DoorMoverEx_Sliding___10]
+LockedDoorMsg=開く
+// LockedDoorMsg=Open
+
+[DoorMoverEx_Sliding___9]
+LockedDoorMsg=開く
+// LockedDoorMsg=Open
+
+[TriggerDialog___22]
+DialogText=Graves 将官: President の言うように, 奴らが問題を起こしにやって来たと決め付けるべきではないのかも知れん.
+// DialogText=General Graves: Maybe the President's right to say we shouldn't just assume they're here to make trouble.
+
+[TriggerDialog___19]
+DialogText=Graves 将官: 将官として友として言うが, 私は我々の Commander-in-Chief の命に沿う時, 君を頼るんだ.
+// DialogText=General Graves: As your general and friend, I know I can count on you to follow our Commander-in-Chief.
+
+[TriggerHint___0]
+Message=$Key(Fire) で投げる - $Key(Melee) で落とす
+// Message=Press $Key(Fire) to Throw - Press $Key(Melee) to Drop
+
+[TriggerHint___6]
+Message=$Key(use) で Door を開く.
+// Message=Press $Key(use) to open Door.
+
+[TriggerHint___7]
+Message=$Key(jump) 連打で Door を開く.
+// Message=Press $Key(jump) rapidly to open Door.
+
+[TriggerDialog___16]
+DialogText=President: 私は Cycloid Emperor との種族間平和共存に向けた外交交渉の最中だ. あの Cycloid Emperor とな!
+// DialogText=President: I'm in diplomatic discussions with the Cycloid Emperor for the peaceful coexistence of our species. The Cycloid Emperor himself!
+
+[TriggerDialog___12]
+DialogText=コンピューター: 地球外生命体を探知しました.
+// DialogText=Computer: Alien lifeform detected.
+
+[TriggerDialog___3]
+DialogText=Duke: キーカード? そんなもんクソ喰らえだ.
+// DialogText=Duke: Keycard? I don't need no fucking keycard.
+
+[TriggerDialog___13]
+DialogText=コンピューター: 地球外生命体を探知しました.
+// DialogText=Computer: Alien lifeform detected.
+
+[TriggerDialog___20]
+DialogText=Graves 将官: 今回は状況が違う可能性があると President はお考えだ. 私もそのように考えている.
+// DialogText=General Graves: The President thinks this time might be different, and I tend to agree.
+
+[TriggerDialog___14]
+DialogText=Graves 将官: 君がいる限り America に戦争を仕掛けても奴らに勝ち目はないと, とうとう気付いたのかも知れん.
+// DialogText=General Graves: Maybe they've finally realized they can't win a war against America as long as you're alive.
+
+[TriggerDialog___17]
+DialogText=President: 君は必要ない. この件には関わるな. これは命令だ.
+// DialogText=President: You are not required. Do not get involved. That's an order.
+
+[TriggerDialog___1]
+DialogText=コンピューター: 動力炉停止中. エネルギーセル 2 つを交感して下さい.
+// DialogText=Computer: Reactor offline. Replace two energy cells.
+
+[TriggerDialog___23]
+DialogText=President: やぁ Duke. 長ったるい演説は止そう, 言いたい事はこれだけだ.
+// DialogText=President: Hello Duke. You know I don't like long speeches, so I'll keep this brief.
+
+[TriggerDialog___4]
+DialogText=Duke: エイリアン野郎供, 俺のビールを全部空けちまいやがった.
+// DialogText=Duke: Looks like those alien bastards drank all my beer.
+
+[TriggerDialog___5]
+DialogText=コンピューター: 警告: 電力枯渇. Duke Vision をお使い下さい.
+// DialogText=Computer: Warning: Power outage. Please use your Duke Vision.
+
+[TriggerDialog___0]
+DialogText=Graves 将官: Duke, つらいだろうが, 今のところは冷静に頼むぞ.
+// DialogText=General Graves: Duke, I know this is hard for you, but play it cool  for now.
+
+[TriggerDialog___10]
+DialogText=コンピューター: 通行拒否; レッドキーカードが必要です.
+// DialogText=Computer: Access Denied; red keycard required.
+
+[TriggerDialog___6]
+DialogText=President: 私はこの平和への好機を無駄にはしないつもりだ!
+// DialogText=President: I won't see this opportunity for peace squandered!
+
+[TriggerDialog___9]
+DialogText=コンピューター: 警告. 前方に敵意. 武装して下さい.
+// DialogText=Computer: Warning. Hostiles ahead. Please arm yourself.
+
+[TriggerDialog___15]
+DialogText=President: 攻撃を仕掛けてから話し合いというわけには行かない. 我々にはまだ疑念があるのだ. 奴らの大量破壊兵器所持の可能性についてな.
+// DialogText=President: We can't afford to shoot first and ask questions later just because we suspect they might still have WMDs.
+
+[TriggerDialog___7]
+DialogText=コンピューター: 動力炉停止中. エネルギーセルを交感して下さい.
+// DialogText=Computer: Reactor offline. Replace energy cells.
+
+[TriggerDialog___21]
+DialogText=Graves 将官: 前回君は奴らを大いに叩きのめした.
+// DialogText=General Graves: You kicked their asses pretty hard last time.
+
+[TriggerDialog___2]
+DialogText=コンピューター: ようこそ Duke. カンファレンスコールの着信があります. Graves 将官と President 両者ともにオンラインです.
+// DialogText=Computer: Welcome, Duke. You have an incoming conference call. General Graves and the President are both online.
+
+[LevelSummary]
+Title=<?int?map02.LevelInfo0.Title?>
+IdealPlayerCount=<?int?map02.LevelInfo0.IdealPlayerCount?>
+
+[TriggerDialog___11]
+DialogText=Duke: 嫌な予感がするな.
+// DialogText=Duke: I've got a bad feeling about this.
+
+[TriggerDialog___24]
+DialogText=President: 君への直接命令として地球外からの訪問者たちへの敵対的接触を禁ずる. この命令は即時適用される.
+// DialogText=President: I'm issuing you a direct order not to engage in hostile interaction with the alien visitors. This is effective immediately.
+
+[TriggerDialog___18]
+DialogText=President: Duke, 君はもはや過去の遺物だ. 今こそ人類の新時代を目指す時.
+// DialogText=President: Duke, you're a relic from a different era. This is a new age for humanity.
+
+[TriggerHint___1]
+Message=$Key(DoHeatVision) で Duke Vision を有効にする
+// Message=Press $Key(DoHeatVision) to toggle Duke Vision
+
+[TriggerDialog___26]
+DialogText=President: 12 年前の Los Angels で君が与えた損害, 数週間に渡る恐怖と大量虐殺の騒動. 国家予算では未だに再建費用が割り当てられている始末だ.
+// DialogText=President: The national budget is still recovering after the weeklong binge of horror and holocaust you wreaked upon Los Angeles twelve years ago.
+
+[DoorMoverEx_Sliding___21]
+LockedDoorMsg=開く
+// LockedDoorMsg=Open
+
+[TriggerDialog___28]
+DialogText=コンピューター: 動力炉停止中. 最後のエネルギーセルを交感して下さい.
+// DialogText=Computer: Reactor offline. Replace the last energy cell.
+
+[TriggerDialog___27]
+DialogText=Graves 将官: 君の気持ちはわかる, Duke. ただ今はまだ奴らに銃弾を叩き込んでやる時ではない.
+//DialogText=General Graves: I know you don't like this, Duke, but we can't go in with guns blazing just yet.
+
+[DoorMoverEx_Sliding___20]
+LockedDoorMsg=開く
+// LockedDoorMsg=Open
+
+[TriggerHint___18]
+Message=Ion Cannon を強化し Mothership を蹴散らせ
+// Message=Power up your Ion Cannon and deal with the Mothership.
+
+[DumbDecoration___0]
+UsePhrase=開く
+// UsePhrase=Open
+
+[TriggerDialog___29]
+DialogText=Duke: 電力回復. さぁひと暴れするか.
+// DialogText=Duke: Power on. Now it's time to kick some ass.
+
+[TriggerDialog___30]
+DialogText=コンピューター: あなたは私をその気にさせました.
+// DialogText=Computer: You really know how to turn a girl on.
+
+[TriggerDialog___31]
+DialogText=Duke: さて本当に嫌な予感がしてきたぞ.
+// DialogText=Duke: Now I've got a really bad feeling about this.
+
+[TriggerHint___2]
+Message=$Key(jump) で Jump
+// Message=Press $Key(jump) to Jump
+
+[TriggerHint___4]
+Message=$Key(duck) で Crouch
+// Message=Press $Key(duck) to Crouch
+
+[TriggerDialog___25]
+DialogText=President: 軽はずみな行動で台無しにされた銀河系間交渉の未来など私は求めていない.
+// DialogText=President: I will not have our future intergalactic negotiations ruined by rash action.
+
+[TriggerHint___10]
+Message=この世界の色々な物を作用させて Ego を増やせ
+// Message=Increase your Ego by interacting with special objects in the world
+
+[TriggerHint___3]
+Message=$Key(DoHeatVision) で Duke Vision を使う
+// Message=Press $Key(DoHeatVision) for Duke Vision
+
+[TriggerHint___9]
+Message=目標達成 : Ego 全回復
+// Message=Objective Complete : Full Ego
+
+[TriggerHint___11]
+Message=$Key(duck) で Crouch
+// Message=Press $Key(duck) to Crouch
+
+[TriggerHint___5]
+Message=$Key(Use) で Stand
+// Message=Press $Key(Use) to Stand
+
+[TriggerHint___8]
+Message=$Key(EgoTrip) Ego Trip
+// Message=$Key(EgoTrip) Ego Trip
+
