@@ -1,11 +1,14 @@
 [TriggerDialog___108]
 DialogText=男: これはごきげんよう Duke.
+// DialogText=Male: Good to see you Duke.
 
 [TriggerDialog___109]
 DialogText=女: こんにちは.
+// DialogText=Female: Hi there.
 
 [TriggerDialog___159]
 DialogText=男: Bitch'n threads man.
+// DialogText=Male: Bitch'n threads man.
 
 [LookInfoActor___0]
 UsePhrase=喋る
@@ -20,10 +23,10 @@ DialogText=Philip: ありがとよ! メールチェックまで待てないぜ!
 DialogText=女: こんにちは.
 
 [TriggerDialog___39]
-DialogText=Johnny: ご覧よ... まるで俺の前妻が離婚の "虚しさ (= vacuum)" を掃いて回るようだ.
+DialogText=Johnny: 見ろよ... 俺の嫁が離婚で何でもかんでも持って行っちまったあとみたいだ.
 
 [TriggerDialog___35]
-DialogText=Johnny: Duke Burger の写メがネットで人気が出るのが待ち遠しいとみたがどうだい? こんなヒドい宣伝は他にないよ, そうだろ?
+DialogText=Johnny: この騒動で Duke Burger の写メがネットで出回るが待ち遠しいんだろう? こりゃぁいい宣伝になる, そうだろ?
 
 [TriggerDialog___203]
 DialogText=女: あなたって実物はさらに素敵なのね.
@@ -32,10 +35,10 @@ DialogText=女: あなたって実物はさらに素敵なのね.
 DialogText=女: 私あなたの一番の大ファンよ.
 
 [TriggerDialog___205]
-DialogText=女: What a man.
+DialogText=女: すごい人ね.
 
 [TriggerDialog___105]
-DialogText=女: What a man.
+DialogText=女: すごい人ね.
 
 [TriggerDialog___106]
 DialogText=男: やぁ, どうだい?
@@ -345,7 +348,7 @@ DialogText=男: やぁ Duke, 会えて嬉しいよ.
 DialogText=女: 私ココすごく好きよ. とってもお洒落.
 
 [TriggerDialog___332]
-DialogText=女: What a man.
+DialogText=女: すごい人ね.
 
 [TriggerDialog___331]
 DialogText=女: 私あなたの一番の大ファンよ.
@@ -477,7 +480,7 @@ DialogText=男: やぁ Duke, 会えて嬉しいよ.
 DialogText=女: 私ココすごく好きよ. とってもお洒落.
 
 [TriggerDialog___127]
-DialogText=女: What a man.
+DialogText=女: すごい人ね.
 
 [TriggerDialog___126]
 DialogText=女: 私あなたの一番の大ファンよ.
@@ -567,7 +570,7 @@ DialogText=舞台係: あんなのやっちまいな.
 DialogText=男: あんな奴等やっちゃって下さいよ.
 
 [TriggerDialog___144]
-DialogText=女: What a man.
+DialogText=女: すごい人ね.
 
 [TriggerDialog___352]
 DialogText=舞台係: よぉみんな. Duke Nukem のご来場だ.
@@ -645,7 +648,7 @@ DialogText=舞台係: よぉみんな. Duke Nukem のご来場だ.
 DialogText=女: 私ココすごく好きよ. とってもお洒落.
 
 [TriggerDialog___155]
-DialogText=女: Gotta remain professional... mustn't fangirl... must... not... fangirl. But OHMYGOD it's Duke Nukem!
+DialogText=女: 落ち着いて... 落ち着くの... オタクじゃあるまいし... ああでもすごい Duke Nukem ぅぅぅ!
 
 [TriggerDialog___154]
 DialogText=女: そう, 結婚の 3 日後に Duke Nukem に出会ったの...
@@ -660,7 +663,7 @@ DialogText=女: あなたって実物はさらに素敵なのね.
 DialogText=女: 私あなたの一番の大ファンよ.
 
 [TriggerDialog___113]
-DialogText=Duke: Take your pills... er, vitamins every day, and you might grow up to be as awesome as me.
+DialogText=Duke: 筋力増強... のためには, ビタミンだ. 毎日摂れば俺みたいにイカした奴になれるかもな.
 
 [TriggerDialog___146]
 DialogText=男: あんたの新作映画最高だよ Duke!
@@ -675,7 +678,7 @@ DialogText=女: あなたって実物はさらに素敵なのね.
 DialogText=舞台係: 分かってるだろうけど, 新しいアルバムを出すべきだよ.
 
 [TriggerDialog___10]
-DialogText=Duke: I gotta find out what the hell is going on around here.
+DialogText=Duke: 一体どうなってんだ. 調べてみるか.
 
 [TriggerDialog___322]
 DialogText=男: 腕にあんたのサインのタトゥーを彫ったんだよ.
@@ -690,7 +693,7 @@ DialogText=男: これはごきげんよう Duke.
 DialogText=舞台係: やぁ Duke, 会えて嬉しいよ.
 
 [TriggerDialog___9]
-DialogText=Johnny: On slow days, all I hear is "Johnny, Johnny, Johnny," but a couple of those aliens come down and suddenly it's all news, all channels.
+DialogText=Johnny: いつもみたいに退屈な日だったら, "Johnny, Johnny" って声ばっかりなんだがね, エイリアン供がやって来たら全チャンネル突然ニュースだ.
 
 [TriggerDialog___323]
 DialogText=男: 新作映画良かったですよ Duke.
@@ -705,7 +708,7 @@ DialogText=男: あんたは新アルバムを出すべきだ.
 DialogText=舞台係: 分かってるだろうけど, 新しいアルバムを出すべきだよ.
 
 [TriggerDialog___222]
-DialogText=女: What a man.
+DialogText=女: すごい人ね.
 
 [TriggerDialog___114]
 DialogText=子供: すごいよ! すごいかっこいい!
@@ -720,10 +723,10 @@ DialogText=女: ショーのあと空いてるといいんだけど.
 DialogText=男: Hell yeah! Who's the man?
 
 [TriggerDialog___17]
-DialogText=子供: 僕 Nukem さんみたいになれたらって!
+DialogText=子供: ボク Nukem さんみたいに強くなれたらって!
 
 [TriggerDialog___30]
-DialogText=Johnny: I'll hook you up with my assistant to reschedule. She'll take care of you. I promise.
+DialogText=Johnny: アシスタントに改めてスケジュール調整させて連絡させるよ. 彼女が面倒見てくれるさ. 約束する.
 
 [TriggerDialog___18]
 DialogText=子供: やったぁ, ありがとう Nukem さん!
@@ -732,7 +735,7 @@ DialogText=子供: やったぁ, ありがとう Nukem さん!
 DialogText=子供: Nukem さん! サインもらえませんか?
 
 [TriggerDialog___11]
-DialogText=Johnny: Half the damn crew has left to see what they're up to at Duke Burger. Gotta wonder if they timed it with you coming on the show and all.
+DialogText=Johnny: まったく撮影班の半分は Duke Burger に取材に行ったよ. Gotta wonder if they timed it with you coming on the show and all.
 
 [TriggerDialog___85]
 DialogText=女: あなたって実物はさらに素敵なのね.
@@ -747,19 +750,19 @@ DialogText=タレント: お前未熟過ぎるんだよ, ふざけてんのか?
 DialogText=女: ショーのあと... 私の大切なところにサインしてほしいの.
 
 [TriggerDialog___22]
-DialogText=タレント: You never stopped to wonder if it might be distracting with you walking through?
+DialogText=タレント: お前止めなかったよな, 歩いたら邪魔になるとか考えなかったわけ?
 
 [TriggerDialog___14]
-DialogText=Father: Excuse me, Duke Nukem? Yeah, my kid's a real big fan. Go on and ask him, Jimmy.
+DialogText=父親: すみません, Duke Nukem さん? 実はうちの子が大ファンで. Jimmy 自分でお願いしなさい.
 
 [TriggerDialog___16]
-DialogText=Duke: Sure, kid. But I better not find this on eBay.
+DialogText=Duke: いいとも坊主. でも eBay でお小遣いに替えるなよ.
 
 [TriggerDialog___31]
-DialogText=男: Hey, glad to see you, Duke.
+DialogText=男: やぁ, 会えて嬉しいよ.
 
 [TriggerDialog___72]
-DialogText=女: Gotta remain professional... mustn't fangirl... must... not... fangirl. But OHMYGOD it's Duke Nukem!
+DialogText=女: 落ち着いて... 落ち着くの... オタクじゃあるまいし... ああでもすごい Duke Nukem ぅぅぅ!
 
 [TriggerDialog___32]
 DialogText=男: やぁ Duke, 会えて嬉しいよ.
@@ -786,7 +789,7 @@ DialogText=女: あなたって実物はさらに素敵なのね.
 DialogText=女: ショーのあと... 私の大切なところにサインしてほしいの.
 
 [TriggerDialog___19]
-DialogText=Johnny: Ah... sorry Duke. It looks like they're shuttin' us down for the night.
+DialogText=Johnny: やぁ... すまない Duke. どうやら今夜の放送は中止みたいだ.
 
 [TriggerDialog___20]
 DialogText=舞台係: 恩に着るよ. イライラさせる奴なんだ.
@@ -795,7 +798,7 @@ DialogText=舞台係: 恩に着るよ. イライラさせる奴なんだ.
 DialogText=男: エイリアン共が復讐に来やがった! 逃げろ!
 
 [TriggerDialog___29]
-DialogText=Security 警備員: やぁ, どうだい?
+DialogText=警備員: やぁ, どうだい?
 
 [TriggerDialog___40]
 DialogText=タレント: お前は良い奴だ... そうさ良い奴だが, 分かってないんだよ, クソ!
@@ -816,7 +819,7 @@ DialogText=男: えぇと, こんにちはお疲れさまです Nukem さん. �
 DialogText=TV: 番組の途中ですが特別ニュース速報をお送りします.
 
 [TriggerDialog___75]
-DialogText=女: Hope you're free after the show.
+DialogText=女: ショーのあと空いてるといいんだけど.
 
 [TriggerDialog___24]
 DialogText=タレント: お前は何も分かってない. さっきのシーンは終わった. 残りの撮影班は Duke Burger に行きやがったし, 俺と Johnny との時間は終わった.
@@ -846,7 +849,7 @@ DialogText=女: (口笛)
 DialogText=TV: 新たな情報は入り次第お知らせします. News 17 Special Report でした.
 
 [TriggerDialog___76]
-DialogText=男: I named my daughter Dukette! I even got her tiny toy rocket launchers to play with! I hope she grows up to be just like you!
+DialogText=男: 娘の名前は Dukette なんだ! 買ってやったちっこいロケットランチャーのおもちゃで遊ぶようになってね! あの子大きくなったらあなたみたいになれるんじゃないかって!
 
 [TriggerDialog___62]
 DialogText=男: やぁ Duke, 会えて嬉しいよ.
@@ -873,16 +876,16 @@ DialogText=タレント: さっきのショーで Johnny とのシーンをや�
 DialogText=スピーカー: ご来場の皆様, 当 Duke Nukem Museum は技術的な問題により, 只今より閉館いたします. 出口の方へお急ぎ下さい.
 
 [TriggerDialog___96]
-DialogText=男: What's up.
+DialogText=男: 元気かい.
 
 [TriggerDialog___83]
 DialogText=男: おお! 本物の Duke Nukem だ!
 
 [TriggerDialog___80]
-DialogText=タレント: It's happening all over again. I was there, 12 years ago, I was there! Oh god, maybe they're after me!
+DialogText=タレント: まただ. 見たんだよ, 12 年前, 俺は遭遇したんだ! 何てこった, 奴ら俺のうしろにいるかも知れない!
 
 [TriggerDialog___79]
-DialogText=タレント: Hey, Duke! Did you see the report? Are those the same guys you fought back in the day?
+DialogText=タレント: やぁ, ニュース見たかい? アイツら昔あんたがやっつけた奴らかい?
 
 [TriggerDialog___78]
 DialogText=男: 友達にココ教えるまで待ってくれ.
@@ -900,7 +903,7 @@ DialogText=男: あんたは新アルバムを出すべきだ.
 DialogText=女: そう, 結婚の 3 日後に Duke Nukem に出会ったの...
 
 [TriggerDialog___48]
-DialogText=男: Gotta remain professional... gotta remain professional... mustn't fanboy... must... not... fanboy. But OHMYGOD it's Duke Nukem!
+DialogText=男: 落ち着いて... 落ち着くの... オタクじゃあるまいし... ああでもすごい Duke Nukem だぁぁぁ!
 
 [TriggerDialog___64]
 DialogText=女: 私あなたの一番の大ファンなの!
@@ -921,7 +924,7 @@ DialogText=男: あ, Nukem さん, こんにちはお疲れさまです.
 DialogText=男: 私はあなたの偉業の大ファンなんです.
 
 [TriggerDialog___89]
-DialogText=女: What a man.
+DialogText=女: すごい人ね.
 
 [TriggerDialog___97]
 DialogText=男: エイリアン共に近寄って奴等を武器で攻撃し始めた奴等がいるんだってな. こんな時によくやるな.
@@ -930,5 +933,5 @@ DialogText=男: エイリアン共に近寄って奴等を武器で攻撃し始�
 DialogText=男: 何で誰も何もしないの? 守ってくれないの? そのための税金じゃないの?
 
 [TriggerDialog___12]
-DialogText=Johnny: Want to come back in a few hours? We might go hit the tables.
+DialogText=Johnny: 何時間後かに戻ってこいよ. We might go hit the tables.
 
