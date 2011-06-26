@@ -7,7 +7,7 @@
 (function() {
     var dist_path,
         dist_files,
-        dnf_path;
+        dnf_path,
         pwd,
         wsapp = WScript.CreateObject('Shell.Application'),
         wsfs = WScript.CreateObject('Scripting.FileSystemObject'),
@@ -40,9 +40,9 @@
 
     // Start script
     function getDNFPath() {
-        var path_x64 = wsh.ExpandEnvironmentStrings('%PROGRAMFILES(X86)%') +
+        var path_x64 = wssh.ExpandEnvironmentStrings('%PROGRAMFILES(X86)%') +
                 '\\Steam\\steamapps\\common\\duke nukem forever',
-            path_x86 = wsh.ExpandEnvironmentStrings('%PROGRAMFILES%') +
+            path_x86 = wssh.ExpandEnvironmentStrings('%PROGRAMFILES%') +
                 '\\Steam\\steamapps\\common\\duke nukem forever';
 
         if (wsfs.FolderExists(path_x64)) {
@@ -56,7 +56,7 @@
     if (wsfs.FolderExists(pwd + '\\dist') &&
             wsfs.FolderExists(getDNFPath() + '\\System')) {
         dist_path = pwd + '\\dist';
-        dnf_path = getDNFPath() + '\\System';
+        dnf_path = getDNFPath() + '\\System\\'; // Close with \\ IMPORTANT!
     }
 
     dist_files = new Enumerator(wsfs.GetFolder(dist_path).Files);
