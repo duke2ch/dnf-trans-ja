@@ -1,0 +1,64 @@
+[LevelSummary]
+Title=<?int?Map04.LevelInfo0.Title?>
+IdealPlayerCount=<?int?Map04.LevelInfo0.IdealPlayerCount?>
+
+[TriggerHint___21]
+Message=$Key(VehicleBoost)  で Turbo Boost
+// Message=Press  $Key(VehicleBoost)  for Turbo Boost
+
+[TriggerHint___42]
+Message=$Key(VehicleHandBrake)  で Hand Brake
+// Message=Press  $Key(VehicleHandBrake)  for Hand Brake
+
+[TriggerDialog___2]
+DialogText=女: ねぇ! ねぇあなたよ!
+// DialogText=Female: Hey! Hey you!
+
+[TriggerHint___18]
+Message=Duke は車輪のあるものをその正面から押すことで動かせます
+// Message=Duke can push wheeled physics objects through the world by running against them
+
+[TriggerDialog___61]
+DialogText=女: エレベーターが今にも落ちそうなの! ブレーキがキーキー言ってて... あなたなら助けられる, そうでしょ? そうよ... あなたなら大丈夫! あなたに不可能はないはずよ!
+// DialogText=Female: I think this elevator's about to fall! The brakes were squealing... you can save me, right? I mean... of course you can! You can do anything!
+
+[TriggerDialog___9]
+DialogText=子供: やぁ, 君はその, おもちゃか何かかい? 命が宿ったとか? ともかく, すごいかっこいいよ! 
+// DialogText=Kid: Hey, are you, like, a toy or something? Come to life? Ah, you're pretty cool!
+
+[TriggerDialog___10]
+DialogText=女: Duke, ブレーキを引いて! 早く.
+// DialogText=Female: Duke, pull the brake! Come on.
+
+[TriggerDialog___7]
+DialogText=MILF: まぁ小さい, 一体どうなってるの? I know right where I'd stick him.
+// DialogText=MILF: So tiny, what the hell? I know right where I'd stick him.
+
+[TriggerDialog___6]
+DialogText=Duke: ボウズ, 俺はおもちゃじゃない. 俺はアクションフィギュアだ.
+// DialogText=Duke: I'm not a toy, kid, I'm an action figure.
+
+[TriggerDialog___4]
+DialogText=女: あぁ, Duke, ありがとう! あなたとならまたいつでも墜ちて行きたい!
+// DialogText=Female: Oh my god, Duke, thank you! I'll go down with you any time!
+
+[TriggerDialog___3]
+DialogText=女: 信じられない, Duke よ.
+// DialogText=Female: Oh my god, it's Duke.
+
+[TriggerDialog___86]
+DialogText=Duke: 何だってんだ?
+// DialogText=Duke: What the fuck?
+
+[TriggerDialog___21]
+DialogText=子供: すごいよ! 本当に Duke だ!
+// DialogText=Kid: SWEET! It really IS you, Duke! You'll fit right inside my RC Car!
+
+[TriggerDialog___8]
+DialogText=子供: これ使わない? Duke のシンボルも付いてるし全部揃ってるよ!
+// DialogText=Kid: Wanna use it? It's got your symbol on it and everything!
+
+[TriggerDialog___80]
+DialogText=男: What the hell ever happened to crop circles and anal probes?
+// DialogText=Male: What the hell ever happened to crop circles and anal probes?
+
