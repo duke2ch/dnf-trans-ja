@@ -1,0 +1,127 @@
+[TriggerHint___21]
+Message=$Key(VehicleBoost)  で Turbo Boost
+// Message=Press  $Key(VehicleBoost)  for Turbo Boost
+
+[TriggerHint___42]
+Message=$Key(VehicleHandBrake)  で Hand Brake
+// Message=Press  $Key(VehicleHandBrake)  for Hand Brake
+
+[TriggerDialog___91]
+DialogText=EDF: 何を待ってるんだい, Hanukkah とか?
+// DialogText=EDF: What are ya waitin' for, Hanukkah?
+
+[TriggerDialog___92]
+DialogText=EDF: 自分の腕を使うんだよ! あーいや, 彼の腕か. ん... 何でない.
+// DialogText=EDF: Use your own arm! I mean, his arm. Er... never mind.
+
+[TriggerDialog___93]
+DialogText=EDF: What, you don't want to touch yourself? Get up here.
+// DialogText=EDF: What, you don't want to touch yourself? Get up here.
+
+[TriggerDialog___68]
+DialogText=EDF: Need to give yourself a hand... ha ha ha.
+// DialogText=EDF: Need to give yourself a hand... ha ha ha.
+
+[TriggerDialog___95]
+DialogText=EDF: Graves がロビーにいる. 正門は塞がれてしまってるが, あんたなら向こうの従業員口が使えるだろう.
+// DialogText=EDF: Graves is waiting in the lobby. The main route's blocked, but you can use the service hallway over there.
+
+[TriggerDialog___66]
+DialogText=EDF: Duke, Graves 将官がお待ちだよ. 上がってくるには自分自身のソレを使うしかないだろうな. うーん, '自分自身のソレ' か, 俺がどうしたか分かるだろ?
+// DialogText=EDF: Duke, General Graves is waitin' buddy. Looks like you gotta use yourself to get up. Heh heh, 'use yourself', you see what I did there?
+
+[TriggerDialog___96]
+DialogText=EDF: Go on, Duke.
+// DialogText=EDF: Go on, Duke.
+
+[TriggerHint___13]
+Message=稼働中の Trip Mine は銃撃による破壊か回避が可能です
+// Message=Active Trip Mines can be shot or avoided
+
+[TriggerHint___5]
+Message=$Key(UseTripMine) で Trip Mines を投げる
+// Message=Press $Key(UseTripMine) to throw Trip Mines
+
+[TriggerHint___29]
+Message=Fire Extinguishers の破壊で近くの炎を消火できます
+// Message=Fire Extinguishers can be destroyed to put out nearby fires
+
+[TriggerDialog___46]
+DialogText=EDF: Hey, over here!
+
+[TriggerDialog___51]
+DialogText=Graves 将官: さて, Central Command はレーダー上にエイリアンの戦闘機が数十隻単位で襲来しているのを探知した. 母艦の破壊の影響は微塵もないようだ.
+// DialogText=General Graves: Now, Central Command has picked up alien fighters pouring in by the dozen on radar. The destruction of the mothership hasn't slowed them down one bit.
+
+[TriggerDialog___47]
+DialogText=Graves 将官: できるだけ早く Duke Dome に向かってくれ. 先行部隊が既に向かっているが, 奴らは人外で凶悪だ. 君が必要なんだ, Duke. 今までにない程にな.
+// DialogText=General Graves: Get to the Duke Dome as fast as you can. An advance force is already on its way, but they're out-manned and out-gunned. We need you, Duke. Now more than ever.
+
+[TriggerDialog___62]
+DialogText=McReady: よっしゃぁ!
+// DialogText=McReady: Yeah!
+
+[TriggerDialog___50]
+DialogText=Graves 将官: 奴らはジェネレーターでもって空にワームホールのようなものをつくり出す技術を手に入れた.
+// DialogText=General Graves: They've got technology that allows them to harness the generators to create some kind of wormhole in the sky.
+
+[TriggerDialog___54]
+DialogText=Graves 将官: どうやら女性たちを Duke Dome へ集めているようだ. あの場所を選んだのは偶然ではないだろう. 奴らにとって, あれは私怨だ.
+// DialogText=General Graves: It looks like the women are being taken to the Duke Dome. I don't think the choice of venues is a coincidence. For them, it's personal.
+
+[TriggerDialog___55]
+DialogText=Graves 将官: 我々は進攻しエイリアン軍を全力で叩かなければならない.
+// DialogText=General Graves: We need to move in and decimate the alien force on all fronts.
+
+[TriggerDialog___56]
+DialogText=Graves 将官: 君の古い友人, Captain Dylan に戦線への参加を要請した. 彼は君のやり方を知っている. Earth Defense Force の全員が君から学んでくれることを願うよ.
+// DialogText=General Graves: I've asked your old friend, Captain Dylan, to join us. He knows how you like to do things. I'm hoping all of the Earth Defense Force will learn from your example.
+
+[TriggerDialog___49]
+DialogText=Graves 将官: エイリアン共はまとまった数で襲来している. 奴らはダムを占拠したよ, Duke... Hoover Dam だ!
+// DialogText=General Graves: The aliens are pouring in by the dozen. They've taken the dam, Duke... the Hoover Dam!
+
+[TriggerDialog___0]
+DialogText=McReady: なんでお前そんなノロマなんだ?
+// DialogText=McReady: Why are you such a douche?
+
+[TriggerDialog___52]
+DialogText=Graves 将官: ともあれ, 我々はこれ以上に緊急を要する問題に差し当たった. 奴らは女性たちを連れ去っているんだ, Duke. 君ならこれがどういうことが分かるだろう.
+// DialogText=General Graves: However, we've got even more immediate problems. They're taking our women, Duke. I think you understand the implications here.
+
+[TriggerDialog___34]
+DialogText=Duke: ダムは潰すとして, 女共はどこに連れて行かれた?
+// DialogText=Duke: Screw the dam, where are they taking our chicks?
+
+[TriggerDialog___53]
+DialogText=Graves 将官: 素晴らしい成果だ, Duke. 母艦を引きずり出し沈艦させた. EDF の部隊がそれを成し遂げられなかったことは残念だが, それは私が責任を持って彼らの遺族に伝えよう.
+// DialogText=General Graves: Excellent work taking out the mothership and getting down here, Duke. I'm only sorry our EDF soldiers didn't make it, but I'll bear that burden and inform their families personally.
+
+[TriggerDialog___64]
+DialogText=Duke: 殺ってやるよ, 旧式.
+// DialogText=Duke: I'm going to kill you old style.
+
+[TriggerDialog___48]
+DialogText=Graves 将官: Duke, President は間違っていた. どうしようもない失態だ. 神に祈るよ, 彼の失態が何か意図的なものでなかったとね. ともかく今は彼を叱責している時間はない.
+// DialogText=General Graves: Duke, the President was wrong. Dead wrong. I hope to God he wasn't deliberately misleading us, but we can't focus on his error now; time is short.
+
+[TriggerDialog___24]
+DialogText=Clarke: これで痛めつけてやれる!
+// DialogText=Clarke: Now we can cause some damage!
+
+[TriggerDialog___26]
+DialogText=McReady: そんな甘っちょろい言い方 Duke Nukem の前で言うもんじゃないぜ... 言うなら, 奴らの金玉ひねり潰してズタズタに引き裂いてやるぐらい言っとけ.
+// DialogText=McReady: You don't say "cause some damage" around Duke Nukem, man...you say we're gonna go bust some balls or tear shit up or something like that.
+
+[TriggerDialog___15]
+DialogText=Clarke: あー, えっと, そうだな. LET'S RUPTURE SOME SPLEENS TOGETHER!
+// DialogText=Clarke: Oh, um, right, ah. LET'S RUPTURE SOME SPLEENS TOGETHER!
+
+[LevelSummary]
+Title=<?int?Map04C.LevelInfo0.Title?>
+IdealPlayerCount=<?int?Map04C.LevelInfo0.IdealPlayerCount?>
+
+[TriggerDialog___94]
+DialogText=EDF: こっちだ. 登ってこいよ.
+// DialogText=EDF: Come on buddy. Get on up here.
+

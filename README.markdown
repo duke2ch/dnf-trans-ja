@@ -10,6 +10,7 @@ PC 版 DNF の非公式日本語翻訳ファイル。自分用にまったり進
     * [pallas d - Duke Nukem 3D Words Collection](http://web.archive.org/http://park3.wakwak.com/~pallas_d/duke/d3dwords/index.html)
     * [pallas d - Duke Nukem Forever Words Collection](http://web.archive.org/http://park3.wakwak.com/~pallas_d/duke/dnfwords/index.html)
 * Male, Female 等の無名 NPC はそれぞれで口調を揃える
+* map01 までの翻訳ファイルに原文のコメントアウトを添える
 
 字幕ファイルのフォーマット
 --------------------------
@@ -29,6 +30,10 @@ PC 版 DNF の非公式日本語翻訳ファイル。自分用にまったり進
         * `map00.ja`: 9 割完了 要確認
         * `map01.ja`: 9 割完了 要確認
         * `map02.ja`: 9割完了 要確認
+        * `map03.ja`: 9割完了 要確認
+        * `map04.ja`: 9割完了 要確認
+        * `map04b.ja`: 9割完了 要確認
+        * `map04c.ja`: 9割完了 要確認
     * `build.sh`: 字幕ファイル生成用スクリプト
     * `install.js`: 字幕ファイルインストール用スクリプト
     * `README.markdown`: 説明
