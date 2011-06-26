@@ -1,0 +1,172 @@
+[LevelSummary]
+Title=<?int?Map04B.LevelInfo0.Title?>
+IdealPlayerCount=<?int?Map04B.LevelInfo0.IdealPlayerCount?>
+
+[TriggerHint___21]
+Message=$Key(VehicleBoost)  で Turbo Boost
+// Message=Press  $Key(VehicleBoost)  for Turbo Boost
+
+[TriggerDialog___70]
+DialogText=Duke: Duke は無敵だ
+// DialogText=Duke: Always bet on Duke.
+
+[TriggerDialog___17]
+DialogText=Mary Holsom: (忍び笑い) 変なの.
+// DialogText=Mary Holsom: (giggles) That's funny.
+
+[TriggerDialog___19]
+DialogText=Mary Holsom: Chuck Norris よりすごーい!
+// DialogText=Mary Holsom: You're better than Chuck Norris!
+
+[TriggerDialog___23]
+DialogText=Kate Holsom: あんなのに勝ち目ないでしょ!
+// DialogText=Kate Holsom: They don't stand a chance!
+
+[TriggerDialog___20]
+DialogText=Duke: 俺の娘共に... 俺の街で. エイリアンのクソ野郎共がこの借りは返すことになるぞ!
+// DialogText=Duke: Not my babes... not in my town. You alien motherfuckers are going to pay for this!
+
+[TriggerDialog___12]
+DialogText=EDF: 聞いてくれ, この扉を開けさえすれば, 我々の Particle Expander で元の大きさに戻れるんだ.
+// DialogText=EDF: Listen, if you can find a way to raise this gate and get in here, our Particle Expander will get you back to full size.
+
+[TriggerDialog___16]
+DialogText=Kate Holsom: それって Mary のムレムレなポケットのことぉ?
+// DialogText=Kate Holsom: Your hot pocket?
+
+[TriggerDialog___18]
+DialogText=Mary Holsom: あぁん, 小っちゃくて可愛いぃ, ポケットに入れたらペットみたいになるかもぉ.
+// DialogText=Mary Holsom: Awww, you're so tiny and cute, I could carry you around in my pocket like a little pet.
+
+[TriggerDialog___11]
+DialogText=EDF: Duke! 良かった誰かに踏み潰されたりしなかったんだ!
+// DialogText=EDF: Duke! Thank God nobody stepped on ya!
+
+[TriggerDialog___0]
+DialogText=Duke: 扉を開ける方法を見つけるか.
+// DialogText=Duke: Gotta find a way to raise the gate.
+
+[TriggerDialog___22]
+DialogText=Mary Holsom: あんなのに勝ち目ないんだから!
+// DialogText=Mary Holsom: They don't stand a chance!
+
+[TriggerDialog___14]
+DialogText=Duke: Size only matters when you're full grown, baby.
+// DialogText=Duke: Size only matters when you're full grown, baby.
+
+[TriggerHint___42]
+Message=$Key(VehicleHandBrake)  で Hand Brake
+// Message=Press  $Key(VehicleHandBrake)  for Hand Brake
+
+[TriggerDialog___31]
+DialogText=Kate Holsom: やっちゃえ, Duke!
+// DialogText=Kate Holsom: You can do it, Duke!
+
+[TriggerDialog___32]
+DialogText=Mary Holsom: やったぁ!
+// DialogText=Mary Holsom: Yea!
+
+[TriggerDialog___33]
+DialogText=Kate Holsom: いいじゃん!
+// DialogText=Kate Holsom: Yea!
+
+[TriggerDialog___69]
+DialogText=Duke: Talk about rodents of unusual size.
+// DialogText=Duke: Talk about rodents of unusual size.
+
+[TriggerDialog___60]
+DialogText=Mary Holsom: やったやったー!
+// DialogText=Mary Holsom: Yea get him!
+
+[TriggerDialog___37]
+DialogText=Kate Holsom: やったぁ, Duke, 全部やっつけちゃった.
+// DialogText=Kate Holsom: Yeah, Duke, you totally beat their asses.
+
+[TriggerDialog___58]
+DialogText=Kate Holsom: いいよその調子ー!
+// DialogText=Kate Holsom: Oh get him!
+
+[TriggerDialog___44]
+DialogText=Kate Holsom: ちょっと, そんなこと言っちゃダメ! Duke がそれ聞いたら私たちもう守ってもらえなくなっちゃう!
+// DialogText=Kate Holsom: Hello, don't say that! Duke will never save us if he hears you promise that!
+
+[TriggerDialog___57]
+DialogText=Mary Holsom: きゃー, キックキック顔面キーック, Duke!
+// DialogText=Mary Holsom: Yea, kick him. Kick him in his face, Duke!
+
+[TriggerDialog___35]
+DialogText=Kate Holsom: いやぁぁぁ! Duke, 私たち食べられちゃう!
+// DialogText=Kate Holsom: Ohooo! Duke, they're gonna eat us!
+
+[TriggerDialog___39]
+DialogText=Mary Holsom: いや, Duke, 助けてっ!
+// DialogText=Mary Holsom: Oh god, Duke, save us!
+
+[TriggerDialog___40]
+DialogText=Mary Holsom: (甘え声)
+// DialogText=Mary Holsom: (purrs)
+
+[TriggerDialog___36]
+DialogText=Mary Holsom: やっぱすごーい, Duke って.
+// DialogText=Mary Holsom: You are so amazing, Duke.
+
+[TriggerDialog___45]
+DialogText=Mary Holsom: 怖かったよぉ! もうイタズラはしないって誓うから許してぇ!
+// DialogText=Mary Holsom: Oh my God! I promise never to do anything naughty ever again!
+
+[TriggerDialog___41]
+DialogText=Kate Holsom: 私も. Mary が無事で本当に良かったよ.
+// DialogText=Kate Holsom: Me too. I'm so glad you're okay.
+
+[TriggerDialog___42]
+DialogText=Duke: よぉし, そろそろ俺の番だろう.
+// DialogText=Duke: All right, time for my reward.
+
+[TriggerDialog___43]
+DialogText=Kate Holsom: Duke! 助けて!
+// DialogText=Kate Holsom: Duke! Help!
+
+[TriggerDialog___38]
+DialogText=Mary Holsom: あぁもう, 本当に怖かったんだからぁ.
+// DialogText=Mary Holsom: Oh my god, I was like so scared.
+
+[TriggerHint___19]
+Message=HolsumTwin : 扉開けてあげる.
+// Message=HolsumTwin : Let me open the gate for you.
+
+[TriggerHint___17]
+Message=HolsumTwin : Only one more room, Duke!
+// Message=HolsumTwin : Only one more room, Duke!
+
+[TriggerDialog___25]
+DialogText=Kate Holsom: 私の分も蹴散らしといて, Duke!
+// DialogText=Kate Holsom: Kick one in the face for me, Duke!
+
+[TriggerDialog___28]
+DialogText=Mary Holsom: いけるよ, Duke!
+// DialogText=Mary Holsom: You're the best, Duke!
+
+[TriggerDialog___27]
+DialogText=EDF: それからえーっと... あんたならあの娘たちの相手ができるだろう. くそ, あの娘らベソベソ言うもんだから... 俺みたいなヤツが一人で相手できるもんじゃない.
+// DialogText=EDF: And uh... maybe you can give me a hand with these two girls. Jesus, the way they've been whining... they're too much for a guy like me to handle alone.
+
+[TriggerDialog___29]
+DialogText=Kate Holsom: ほーら, さすがね, Duke!
+// DialogText=Kate Holsom: Ah, you're the best, Duke!
+
+[TriggerDialog___30]
+DialogText=Mary Holsom: やったぁ, いい感じ, Duke!
+// DialogText=Mary Holsom: Yea, you can do it, Duke!
+
+[TriggerDialog___1]
+DialogText=Kate Holsom: いやぁぁぁ! Duke, 私たち食べられちゃう!
+// DialogText=Kate Holsom: Ohooo! Duke, they're gonna eat us!
+
+[TriggerHint___22]
+Message=HolsumTwin : Duke! エイリアンが! 助けて!
+// Message=HolsumTwin : Duke!  There's aliens ahead.  Please save us!
+
+[TriggerHint___15]
+Message=HolsumTwin : Wow, Duke.  You sure kicked their asses.
+// Message=HolsumTwin : Wow, Duke.  You sure kicked their asses.
+
