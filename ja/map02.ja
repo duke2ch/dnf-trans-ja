@@ -63,7 +63,7 @@ DialogText=President: やぁ Duke. 長ったるい演説は止そう, 言いた�
 // DialogText=President: Hello Duke. You know I don't like long speeches, so I'll keep this brief.
 
 [TriggerDialog___4]
-DialogText=Duke: エイリアン野郎供, 俺のビールを全部空けちまいやがった.
+DialogText=Duke: エイリアン野郎共, 俺のビールを全部空けちまいやがった.
 // DialogText=Duke: Looks like those alien bastards drank all my beer.
 
 [TriggerDialog___5]
@@ -119,7 +119,7 @@ DialogText=President: Duke, 君はもはや過去の遺物だ. 今こそ人類�
 // DialogText=President: Duke, you're a relic from a different era. This is a new age for humanity.
 
 [TriggerHint___1]
-Message=$Key(DoHeatVision) で Duke Vision を有効にする
+Message=$Key(DoHeatVision) で Duke Vision を切り替える
 // Message=Press $Key(DoHeatVision) to toggle Duke Vision
 
 [TriggerDialog___26]
@@ -175,7 +175,7 @@ DialogText=President: 軽はずみな行動で台無しにされた銀河系間�
 // DialogText=President: I will not have our future intergalactic negotiations ruined by rash action.
 
 [TriggerHint___10]
-Message=この世界の色々な物を作用させて Ego を増やせ
+Message=この世界の様々なもので Ego を増やせ
 // Message=Increase your Ego by interacting with special objects in the world
 
 [TriggerHint___3]
