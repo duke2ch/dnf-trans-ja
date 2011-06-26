@@ -168,7 +168,7 @@ DialogText=タレント: 元気そうだね Duke.
 DialogText=タレント: やぁ Duke, 会えて嬉しいよ.
 
 [TriggerDialog___371]
-DialogText=男: エイリアン共に近寄って奴等を武器で攻撃し始めた奴等がいるんだってな. こんな時によくやるな.
+DialogText=男: エイリアン共に近寄って奴らを武器で攻撃し始めた奴らがいるんだってな. こんな時によくやるな.
 
 [TriggerDialog___370]
 DialogText=男: これはごきげんよう Duke.
@@ -192,7 +192,7 @@ DialogText=男: おいみんな. Duke Nukem のご来場だ.
 DialogText=男: Ah, right on.
 
 [TriggerDialog___363]
-DialogText=男: あんな奴等やっちゃって下さいよ.
+DialogText=男: あんな奴らやっちゃって下さいよ.
 
 [TriggerDialog___362]
 DialogText=男: えぇと, こんにちはお疲れさまです Nukem さん.
@@ -327,7 +327,7 @@ DialogText=男: おいみんな. Duke Nukem のご来場だ.
 DialogText=男: Ah, right on.
 
 [TriggerDialog___282]
-DialogText=男: あんな奴等やっちゃって下さいよ.
+DialogText=男: あんな奴らやっちゃって下さいよ.
 
 [TriggerDialog___281]
 DialogText=男: えぇと, こんにちはお疲れさまです Nukem さん.
@@ -360,7 +360,7 @@ DialogText=女: あなたって実物はさらに素敵なのね.
 DialogText=女: こんにちは.
 
 [TriggerDialog___241]
-DialogText=男: エイリアン共に近寄って奴等を武器で攻撃し始めた奴等がいるんだってな. こんな時によくやるな.
+DialogText=男: エイリアン共に近寄って奴らを武器で攻撃し始めた奴らがいるんだってな. こんな時によくやるな.
 
 [TriggerDialog___240]
 DialogText=男: これはごきげんよう Duke.
@@ -384,7 +384,7 @@ DialogText=男: おいみんな. Duke Nukem のご来場だ.
 DialogText=男: Ah, right on.
 
 [TriggerDialog___233]
-DialogText=男: あんな奴等やっちゃって下さいよ.
+DialogText=男: あんな奴らやっちゃって下さいよ.
 
 [TriggerDialog___231]
 DialogText=男: 私はあなたの偉業の大ファンなんです.
@@ -435,7 +435,7 @@ DialogText=男: 友達にココ教えるまで待ってくれ.
 DialogText=女: 私ココすごく好きよ. とってもお洒落.
 
 [TriggerDialog___218]
-DialogText=男: エイリアン共に近寄って奴等を武器で攻撃し始めた奴等がいるんだってな. こんな時によくやるな.
+DialogText=男: エイリアン共に近寄って奴らを武器で攻撃し始めた奴らがいるんだってな. こんな時によくやるな.
 
 [TriggerDialog___217]
 DialogText=男: これはごきげんよう Duke.
@@ -459,7 +459,7 @@ DialogText=男: おいみんな. Duke Nukem のご来場だ.
 DialogText=男: Ah, right on.
 
 [TriggerDialog___210]
-DialogText=男: あんな奴等やっちゃって下さいよ.
+DialogText=男: あんな奴らやっちゃって下さいよ.
 
 [TriggerDialog___209]
 DialogText=男: えぇと, こんにちはお疲れさまです Nukem さん.
@@ -501,7 +501,7 @@ DialogText=男: 新作映画良かったですよ Duke.
 DialogText=男: えぇと, こんにちはお疲れさまです Nukem さん.
 
 [TriggerDialog___290]
-DialogText=男: エイリアン共に近寄って奴等を武器で攻撃し始めた奴等がいるんだってな. こんな時によくやるな.
+DialogText=男: エイリアン共に近寄って奴らを武器で攻撃し始めた奴らがいるんだってな. こんな時によくやるな.
 
 [TriggerDialog___337]
 DialogText=舞台係: 私はあなたの偉業の大ファンなんです.
@@ -567,7 +567,7 @@ DialogText=女: こんにちは.
 DialogText=舞台係: あんなのやっちまいな.
 
 [TriggerDialog___319]
-DialogText=男: あんな奴等やっちゃって下さいよ.
+DialogText=男: あんな奴らやっちゃって下さいよ.
 
 [TriggerDialog___144]
 DialogText=女: すごい人ね.
@@ -591,7 +591,7 @@ DialogText=男: おいみんな. Duke Nukem のご来場だ.
 DialogText=舞台係: なぁ, あんたの新作映画は最高だ.
 
 [TriggerDialog___327]
-DialogText=男: エイリアン共に近寄って奴等を武器で攻撃し始めた奴等がいるんだってな. こんな時によくやるな.
+DialogText=男: エイリアン共に近寄って奴らを武器で攻撃し始めた奴らがいるんだってな. こんな時によくやるな.
 
 [TriggerDialog___347]
 DialogText=舞台係: 元気そうだね Duke.
@@ -693,7 +693,7 @@ DialogText=男: これはごきげんよう Duke.
 DialogText=舞台係: やぁ Duke, 会えて嬉しいよ.
 
 [TriggerDialog___9]
-DialogText=Johnny: いつもみたいに退屈な日だったら, "Johnny, Johnny" って声ばっかりなんだがね, エイリアン供がやって来たら全チャンネル突然ニュースだ.
+DialogText=Johnny: いつもみたいに退屈な日だったら, "Johnny, Johnny" って声ばっかりなんだがね, エイリアン共がやって来たら全チャンネル突然ニュースだ.
 
 [TriggerDialog___323]
 DialogText=男: 新作映画良かったですよ Duke.
@@ -720,7 +720,8 @@ DialogText=舞台係: やぁ, これは. 最近どうだい?
 DialogText=女: ショーのあと空いてるといいんだけど.
 
 [TriggerDialog___47]
-DialogText=男: Hell yeah! Who's the man?
+DialogText=男: よっしゃぁぁ! 俺は漢だ!
+// DialogText=Male: Hell yeah! Who's the man?
 
 [TriggerDialog___17]
 DialogText=子供: ボク Nukem さんみたいに強くなれたらって!
@@ -756,7 +757,7 @@ DialogText=タレント: お前止めなかったよな, 歩いたら邪魔に�
 DialogText=父親: すみません, Duke Nukem さん? 実はうちの子が大ファンで. Jimmy 自分でお願いしなさい.
 
 [TriggerDialog___16]
-DialogText=Duke: いいとも坊主. でも eBay でお小遣いに替えるなよ.
+DialogText=Duke: いいともボウズ. でも eBay でお小遣いに替えるなよ.
 
 [TriggerDialog___31]
 DialogText=男: やぁ, 会えて嬉しいよ.
@@ -808,6 +809,7 @@ DialogText=女: こんにちは.
 
 [TriggerDialog___41]
 DialogText=TV: 目撃情報によるとエイリアン数体が母艦より降下し, えー, 情報によると Vegas 滑走路の Duke Burger に並んでいるとの事です.
+// DialogText=TV: Eyewitnesses have confirmed that several aliens have descended from the mothership and, um, are now reportedly in line at the Duke Burger on the Vegas strip.
 
 [TriggerDialog___42]
 DialogText=男: イカしてるねぇ!
@@ -927,7 +929,7 @@ DialogText=男: 私はあなたの偉業の大ファンなんです.
 DialogText=女: すごい人ね.
 
 [TriggerDialog___97]
-DialogText=男: エイリアン共に近寄って奴等を武器で攻撃し始めた奴等がいるんだってな. こんな時によくやるな.
+DialogText=男: エイリアン共に近寄って奴らを武器で攻撃し始めた奴らがいるんだってな. こんな時によくやるな.
 
 [TriggerDialog___86]
 DialogText=男: 何で誰も何もしないの? 守ってくれないの? そのための税金じゃないの?
