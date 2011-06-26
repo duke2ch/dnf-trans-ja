@@ -1,0 +1,80 @@
+[TriggerDialog___5]
+DialogText=女: どうするの?
+// DialogText=Female: What will we do?
+
+[TriggerPlayer___18]
+BossMeterName=Mothership
+
+[TriggerHint___14]
+Message=Wave 4
+
+[TriggerHint___0]
+Message=4 時間後...
+// Message=4 Hours Later...
+
+[LevelSummary]
+Title=<?int?Map03.LevelInfo0.Title?>
+IdealPlayerCount=<?int?Map03.LevelInfo0.IdealPlayerCount?>
+
+[TriggerDialog___4]
+DialogText=男: 良かった. Duke Nukem がいる. 彼なら俺たちを守れるはずだ.
+// DialogText=Male: Awesome. Duke Nukem's here. He can protect us.
+
+[TriggerDialog___7]
+DialogText=男: あいつのハラワタがこぼれ落ちるのを見ちまった! グロかったよ!
+// DialogText=Male: I saw his guts spill out! Gross!
+
+[TriggerDialog___0]
+DialogText=Duke: おやすみ.
+// DialogText=Duke: Rest in pieces.
+
+[TriggerHint___2]
+Message=$Key(Melee) で Melee
+// Message=Press $Key(Melee) to Melee
+
+[TriggerHint___13]
+Message=Attack 1
+
+[TriggerHint___27]
+Message=Attack 5 : Player Dead
+
+[TriggerHint___24]
+Message=Wave 3
+
+[TriggerHint___23]
+Message=Wave 2
+
+[TriggerHint___25]
+Message=Attack 4
+
+[TriggerHint___21]
+Message=Attack 3
+
+[TriggerHint___16]
+Message=Attack 5
+
+[TriggerHint___26]
+Message=Attack Over
+
+[TriggerHint___22]
+Message=Wave 1
+
+[TriggerHint___1]
+Message=TV: Duke Nukem は Aliens との交戦を始めました... Vegas は戦火に晒されています.
+// Message=TV: Duke Nukem has started a war with the Aliens... Vegas is under siege.
+
+[TriggerHint___5]
+Message=Attack 2
+
+[TriggerDialog___8]
+DialogText=女: 何でこうなるの?
+// DialogText=Female: Why is this happening?
+
+[TriggerDialog___10]
+DialogText=Duke: (笑い声)
+// DialogText=Duke: (laughter)
+
+[TriggerDialog___13]
+DialogText=Duke: オーイェ, オォーイェ.
+// DialogText=Duke: Oh yeah, ohh yeah.
+
