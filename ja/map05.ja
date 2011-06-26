@@ -1,0 +1,147 @@
+[TriggerDialog___1]
+DialogText=Dylan: ちょうど友達のかみさんを探す手伝いから戻ったとこでね. まったくひどいアバズレだよ.
+// DialogText=Dylan: I just got back from helping my friend find his wife. Christ, what a fucking pussy.
+
+[TriggerDialog___28]
+DialogText=EDF 兵士: Duke! あんたの分のパワーアーマーはこの緑のヤツだ. 俺たちはもう準備完了だ.
+// DialogText=EDF Soldier: Duke! We've got your green power armor over here and ready to go.
+
+[TriggerPlayer___8]
+BossMeterName=Battlelord
+
+[TriggerDialog___17]
+DialogText=Dylan: さぁさぁさっさとしようぜ.
+// DialogText=Dylan: Let's hurry the fuck up.
+
+[TriggerDialog___5]
+DialogText=Duke: それにしても醜いくそったれだなお前.
+// DialogText=Duke: You are one ugly motherfucker.
+
+[TriggerDialog___4]
+DialogText=Dylan: Don't want you to get any dust in that sexy fucking mop of yours.
+// DialogText=Dylan: Don't want you to get any dust in that sexy fucking mop of yours.
+
+[TriggerDialog___3]
+DialogText=Dylan: Duke, 後退だ.
+// DialogText=Dylan: Duke, stand back.
+
+[TriggerDialog___6]
+DialogText=Dylan: I need to go update Graves on this shit storm.
+// DialogText=Dylan: I need to go update Graves on this shit storm.
+
+[TriggerDialog___7]
+DialogText=Duke: パワーアーマーは甘ちゃん用だろ.
+// DialogText=Duke: Power armor is for pussies.
+
+[TriggerDialog___32]
+DialogText=Dylan: Duke! こっちだ!
+// DialogText=Dylan: Duke! Up here!
+
+[TriggerDialog___31]
+DialogText=Jenkins: 気をつけろ, 敵襲だ!
+// DialogText=Jenkins: Watch out, incoming!
+
+[TriggerHint___2]
+Message=$Key(UsePipebomb) で Pipe Bomb を投げて $Key(Fire) で爆発させる
+// Message=Press $Key(UsePipebomb) to throw a Pipe Bomb and $Key(Fire) to detonate
+
+[TriggerDialog___8]
+DialogText=Dylan: それから俺の分のエイリアンのくそったれ共残しとけよ, なぁ?!
+// DialogText=Dylan: And leave some of those alien fuckers for me, huh?!
+
+[TriggerHint___10]
+Message=機関銃を使って効率よく敵を倒せ
+// Message=Use turrets to efficiently kill enemies
+
+[LookInfoActor___0]
+UsePhrase=飲む
+// UsePhrase=Drink
+
+[TriggerDialog___29]
+DialogText=EDF 兵士: えぇと... そうかい. 代わりに銃はどうだい?
+// DialogText=EDF Soldier: Um... well, okay. You want a gun instead?
+
+[TriggerDialog___30]
+DialogText=EDF 兵士: よーし, じゃぁ行こうか.
+// DialogText=EDF Soldier: All right, let's move out.
+
+[TriggerDialog___15]
+DialogText=Duke: 畜生, Leroy!
+// DialogText=Duke: Dammit, Leroy!
+
+[TriggerHint___0]
+Messageボスは機関銃か爆発物でのみダメージを受けます
+// Message=Boss enemies are only vulnerable to turrets and explosive weapons
+
+[TriggerDialog___0]
+DialogText=Dylan: Duke! こうしてまた会えるとは最高だ. 分かってる, 隠居とかいう輪戯言は所詮戯言だ. 隠居なんてクソ喰らえだ!
+// DialogText=Dylan: Duke! Good to fucking see ya. I knew that retirement bullshit was just bullshit. Fuck that retirement shit!
+
+[TriggerDialog___18]
+DialogText=EDF 指揮官: けんか騒ぎへようこそ! あんたが参加してくれたら最高だな.
+// DialogText=EDF Captain: Welcome to the fray! Glad you could join the party.
+
+[TriggerDialog___21]
+DialogText=Dylan: あんたがクソ野郎共に気合入れてやるのを手伝ってくれって Graves から頼まれてな, そう昔みたいにな! 奴らをケツの穴にぶち込んでやるのが楽しみだ! Hoo-ah!
+// DialogText=Dylan: Graves wants me to help you jack these motherfuckers up, just like old fucking times! Can't wait to pound 'em in the cornhole!  Hoo-ah!
+
+[TriggerDialog___24]
+DialogText=EDF 兵士: おそらくあの下水道を通り抜けなきゃ Duke Dome には行けないな.
+// DialogText=EDF Soldier: We'll probably need to head through that sewer over there to get to the Duke Dome.
+
+[TriggerDialog___46]
+DialogText=Dylan: うわくそっ, きったねぇ.
+// DialogText=Dylan: Holy shit, what a fuckin' mess.
+
+[TriggerDialog___39]
+DialogText=EDF 兵士: よぉ, Duke... 通りは全部地獄へ吹き飛ばされちまった.
+// DialogText=EDF Soldier: Hey, Duke... the street's blown all to hell.
+
+[TriggerDialog___33]
+DialogText=EDF 兵士: そろそろ移動だ.
+// DialogText=EDF Soldier: Time to move on.
+
+[TriggerDialog___48]
+DialogText=Dylan: 俺はダムへ向かう.
+// DialogText=Dylan: I've got to head out to the dam.
+
+[TriggerDialog___37]
+DialogText=EDF 指揮官: くそ, 来たぞ敵襲だ! 全員ペニスバンド装着だ, 淑女諸君, エイリアン共のケツの穴をズタズタにかき回してやるぞ!
+// DialogText=EDF Captain: Holy shit, we've got incoming! Strap on the dildos, laddies, it's time to tear up some alien ass!
+
+[TriggerDialog___49]
+DialogText=Dylan: Duke Dome へ向かうんだ.
+// DialogText=Dylan: You need to get to the fuckin' Duke Dome.
+
+[TriggerDialog___50]
+DialogText=Dylan: まぁたどり着くにはこのジメジメの臭ぇケツの穴みたいなところを這って行かなきゃならんけどな.
+// DialogText=Dylan: You have to crawl through this wet stank-hole to get there, though.
+
+[TriggerDialog___36]
+DialogText=Jenkins: はっ, 了解であります! あなたを先導するとは大変光栄であります. ミスター Duke Nukem, えぇと... 行くであります!
+// DialogText=Jenkins: Sir, yes sir! It will be an honor to escort you, Mr. Duke Nukem, uh... sir! Let's go.
+
+[TriggerDialog___42]
+DialogText=Dylan: あんたは Private Jenkins を連れて先に行け, こいつぐらいしかあんたに着いて行ける狂っちまったクソ野郎はいないよ.
+// DialogText=Dylan: You go on ahead and take Private Jenkins with you, since he's the only other poor motherfucker who's crazy enough to go with you.
+
+[TriggerDialog___35]
+DialogText=Dylan: こいつが殺られちまうことがないよう頼むよ.
+// DialogText=Dylan: Try not to let him get fuckin' killed, will ya?
+
+[TriggerDialog___47]
+DialogText=Dylan: President がこれを見たら漏らしちまうぜ.
+// DialogText=Dylan: The President is gonna fucking shit his pants when he sees this.
+
+[LevelSummary]
+Title=<?int?Map05.LevelInfo0.Title?>
+IdealPlayerCount=<?int?Map05.LevelInfo0.IdealPlayerCount?>
+
+[TriggerDialog___11]
+DialogText=Jenkins: 敵兵なし.
+// DialogText=Jenkins: Looks clear.
+
+[TriggerDialog___34]
+DialogText=Dylan: 排除完了! 一服するか.
+// DialogText=Dylan: Area clear!  Anybody got a smoke?
+
