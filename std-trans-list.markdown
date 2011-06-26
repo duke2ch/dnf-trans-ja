@@ -1,8 +1,61 @@
-pallas d 定訳リスト
-===================
+定訳リスト
+==========
 
-Aliens
-------
+キャラクター設定
+----------------
+
+### Duke Nukem
+
+* 主格: 俺
+* 語尾: だ, ぜ, ぞ...
+
+### Mary Holsom
+
+* 主格: 私
+* 甘え口調
+* 若干下から目線
+
+### Kate Holsom
+
+* 主格: 私
+* いじわる口調
+* 若干上から目線
+
+日本語表現の固定
+----------------
+
+* あなた
+* 君
+* クソ
+* こと
+* 子供
+* できる
+* ボク
+* ヤツ
+* 奴ら
+* 野郎
+* 野郎共
+* 私たち
+
+英語表現の固定訳
+----------------
+
+* babe = 娘
+* chicks = 女共
+* one-eyed freak = 一つ目の化け物
+
+表記の揺らぎ
+------------
+
+文頭以外で大文字から始まる語は固有名詞とし全てそのままの表記を使う。これを基本とする。揺らぎに関しては原則に沿った翻訳が完了した後、検討するべきか。
+
+* "Mothership" と "mothership"
+* 文中での "Door" "Crouch" "Jump" など一般語彙と思われる単語の大文字表記の扱い
+
+pallas d
+--------
+
+### Aliens
 
 * Bitchin'
     * 「おんどりゃ」
@@ -57,8 +110,7 @@ Aliens
     * 「ケツみたいな顔しやがって」
     * 直訳は「あなたの顔、あなたの尻、違いは何ですか？」である。どちらも同じで、見分けがつかないエイリアン達をけなした台詞。
 
-Chicks
-------
+### Chicks
 
 * Damn
     * 「ああ、、」
@@ -73,8 +125,7 @@ Chicks
     * 「踊らない？」
     * 正しくは do you want to dance? である。上と同じく１ドルのチップを渡す動作をともなって言う。相手がＯＫした場合、果たしてデュークはどんなダンスをするのだろうか。
 
-Monologs
---------
+### Monologs
 
 * Ah, much better
     * 「あー、スッキリした」
@@ -110,8 +161,7 @@ Monologs
     * 「ここはどこだ？」
     * 秘密のドアなどを探して壁を押しているときに言う。本当は解っているのにジョークっぽく「ここはどこ？」などと言ってしまうのである。同じ状況の時に「うんっ」とうめく場合が多い。
 
-Next Levels
------------
+### Next Levels
 
 * Gonna rip'em my new one
     * 「次も突破してやる」
@@ -126,8 +176,7 @@ Next Levels
     * 「ノッてるぜ」
     * I am rocking を省略した表現。rock とは「揺れる、揺らす」という意味の動詞。体が動いている（ノッている）という事。ビクトリーシーンでデュークの動きがまさにこのノリである（息を切らしてハァハァしているとも言える）。
 
-Ridicules
----------
+### Ridicules
 
 * Damn, you're ugly
     * 「おっ、ブサイクな顔」
@@ -157,8 +206,7 @@ Ridicules
     * 「てめぇ、最低」
     * 各エピソード共通の台詞：独り言：this sucks を参照。
 
-Weapons
--------
+### Weapons
 
 * Come get some
     * 「取りに来て見ろ」
@@ -177,8 +225,7 @@ Weapons
     * 「誰か、欲しい？」
     * 正しくは who does want any (weaponry)? となる。いちいち長ったらしく言わないのが普通の会話表現である。come get some と同じような気持ちで「欲しいか？あげようか？ふん、嘘だよ」
 
-Extras
-------
+### Extras
 
 * Die human
     * 「人間よ、死ね」
@@ -193,8 +240,7 @@ Extras
     * 「飲み込め」（RPG を喰らえ）
     * デュークも同じ言葉を使うが、これはアサルトコマンダーの台詞である。アサルト=assault には「強姦する」という意味があり、誘拐してきた女性達を犯しながら suck it down と言っているのだろう。
 
-EP1
----
+### EP1
 
 * Damn, those alien bastards are gonna pay for shooting up my ride
     * 「ちいっ、エイリアン野郎共、この借りは返してもらうぜ」
@@ -231,8 +277,7 @@ EP1
 * After wiping the blood and brains from his boots, Duke explored the alien ship. Monitors showed a titanic alien ship hovering above Earth, showed them in close-up: they all held women, still alive. Just like the ones Duke encountered. Duke glowered in the pale green monitor light, and set the auto destruct sequence on the alien ship. He stared at the screen once again."No one steals our chicks," sneered Duke, "and lives."
     * 「ブーツについた汚物を拭いた後、デュークはエイリアンの宇宙船内を調査した。モニター類は地球上空に浮かぶ巨大な母船を映していた。クローズアップすると女性達がとらわれているではないか。彼女達も、これまでに見てきた女性達と同じでまだ生きているのだ。デュークは薄緑に光るモニターをにらみつけ、宇宙船の自爆装置をセットした。そしてもう一度画面を見つめ、不敵な笑いを浮かべてこう言った。」
 
-EP2
----
+### EP2
 
 * Nobody steals our chicks, and lives
     * 「我らがかわい子ちゃん達を奪った奴は、生かしておかないぜ」
@@ -265,8 +310,7 @@ EP2
 >
 >デュークは怒鳴って言った。『出来損ないのタコにわかるかな？ 俺様が地球に舞い戻って行く事が。それともう一つ、貴様があの世へ行く前にその薄汚ない頭をよぎるのはな…、31cm のこのブーツだってことがよ！』 
 
-EP3
----
+### EP3
 
 * It's time to kick ass and chew bubble gum, and I'm all outta gum
     * 「ガムでもかんで一暴れしてやるか、ってガムが切れちまってるぜ」
@@ -322,8 +366,7 @@ EP3
     * 「……」
     * 皆さん御自由に想像してください。終章。
 
-EP4
----
+### EP4
 
 > EDF（Earth Defence Forces：地球防衛軍）内の薄暗い一室、
 > サングラスをかけ両手を腰に当てている軍服姿の白髪の司令官。
@@ -474,10 +517,9 @@ EP4
 
 > 本当に頭でっかち（big head）になっている DUKE NUKEM 3D チームの面々とデュークとの記念写真。
 
-Caribbean
----------
+### Caribbean
 
-### Aliens
+#### Aliens
 
 * I'll turn you into a bait
     * 「餌にしてやる」
@@ -505,13 +547,13 @@ Caribbean
     * 「雑草は刈られるのさ」
     * weed wacker とは電動草刈機の事である。要はエイリアン達に対してそれを処理する物（武器）をデュークが持っているので、いくら刃向かってもお前らには勝ち目はないよ、と言っている。
 
-### Monologs
+#### Monologs
 
 * This vacation sucks
     * 「この休暇、最低」
     * 死んだ時に言う台詞。せっかくの休暇を犠牲にして戦ったのに殺られてしまった、この悔しさ、怒りの感情を表わした簡潔な言い方。〜suck(s) という台詞はデュークがよく使う物の一つ。
 
-### New Levels, Weapons（次のレベルに行く時、武器取得時）
+#### New Levels, Weapons（次のレベルに行く時、武器取得時）
 
 * Time to crash this party
     * 「このパーティーをぶっ壊すか」
@@ -520,7 +562,7 @@ Caribbean
     * 「リンボー・タイム！」
     * 南の楽園というばリンボーダンス、これはもうお約束だ。武器を手に入れた喜びを「あの独特のノリ＆高まる興奮度」になぞらえて表現した言葉。
 
-### Extras（おまけ）
+#### Extras（おまけ）
 
 * You've got such a big muscle
     * 「なんて逞しいのかしら」
@@ -542,8 +584,7 @@ Caribbean
     * ビーチチェアギャルの台詞、その２。cheap は「安い、安っぽい」という意味。つまり「安っぽい感じで誘いに来ないで、もっと紳士的にお願い」という気持ちでデュークに対して言っている。
     * 他に、ビーチチェアギャル達は、俗に言う「舌回し」で叫びながら（文字にすると「リィィ〜〜〜」という感じ）体を起こして巨乳を振り振りし、目を楽しませてくれるっちゅぅの。
 
-EP
---
+#### EP
 
 * Let's go surfing now, everybody's learning how, come on it's a party with me
     * 「波乗りに行こう〜、誰でも楽しく〜、盛り上がろうぜ〜」
@@ -636,10 +677,9 @@ EP
 
 > THE END
 
-Duke Nukem Forever
-------------------
+### Duke Nukem Forever
 
-### DNF '01 E3 Video
+#### DNF '01 E3 Video
 
 * They are everywhere, people are turning into monsters
     * 「奴らはうじゃうじゃいるのよ！みんな怪物になってくわ！」
@@ -667,7 +707,7 @@ Duke Nukem Forever
     * 「ヘッヘッヘッ、お若いの、そのサングラスでキメとるつもりかい？」
     * かつての鉱山労働者 Gus おぢさんがデュークに対して言う台詞。直訳すると「あなたはそれらのサングラスがあなたを格好良く見せているとでも思っていますか？」となる。them sunglasses は正しくは those sunglasses（例：he doesn't を he don't と間違えるのと同じ）。昔から働きづめだったのか正しい文法を知らないようだ。デュークのトレードマークのサングラスを茶化した台詞で、このビデオのオチにもなっている。それにしてもこの Gus おぢさんは、丸眼鏡といい、ほとんど抜けた歯といい、背中にしょったリュックに差した愛用スコップ（昔のなごり？）といい、いい味だしてくれてますね。
 
-### DNF '98 E3 Video
+#### DNF '98 E3 Video
 
 * I was born to rock the world
     * 「世界を激震させるのが俺の役目さ」
@@ -683,7 +723,7 @@ Duke Nukem Forever
     * すべての映像が終り再び新たな「DUKE NUKEM FOREVER」のタイトルが登場、そしてマシンガンの音がして FOREVER の文字を形どる電球が破裂していく…。そしてデュークが言う言葉。ラスベガス・カジノに引っかけた、まさに決め台詞中の決め台詞である。直訳は「いつもデュークに賭けろ」で、今まで戦いに勝ってきた事、そしてこれからも勝ち続ける、負ける訳がないから期待を裏切らないぜ、というあふれる自信を表わしている。さすがだねぇ。
 * このビデオの冒頭に出てくるデューク柄のトランプとカジノチップは「E3」会場で行われたゲームの賞品だったそうだが、個人的に非常に欲しい〜、喉から手が出るほど欲しい〜！。
 
-### DNF Saying Contest
+#### DNF Saying Contest
 
 * If I want any of your lip, I'd unzip my pants
     * 「てめえの屁理屈が聞きたかったら、トイレで用でも足すだろうよ」
