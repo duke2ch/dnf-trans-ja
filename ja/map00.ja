@@ -5,7 +5,8 @@ LocationName=First Down
 Message=$Key(Use) で終了
 
 [TriggerDialog___96]
-DialogText=Kate Holsom: (クスクス)
+DialogText=Kate Holsom: (忍び笑い)
+// DialogText=Kate Holsom: (giggles)
 
 [LevelSummary]
 Title=<?int?Map00.LevelInfo0.Title?>
@@ -27,7 +28,7 @@ DialogText=Duke: 溜まってるな.
 DialogText=補給艦: Delta Kappa Echo 応答しろ, 確認した. こちら Yankee-One-Niner. 弾薬供給に向かっている.
 
 [TriggerDialog___8]
-DialogText=Kate Holsom: そうかな? Mary も可愛かったー!
+DialogText=Kate Holsom: そうかな? Mary も可愛かったよ!
 
 [TriggerDialog___9]
 DialogText=Duke: パーティーで.
@@ -63,10 +64,11 @@ DialogText=EDF: さぁどうする? 一人で世界を守るつもりか?
 DialogText=EDF: 洗面台に水を張ったらいいのかい?
 
 [TriggerDialog___2]
-DialogText=Duke: 俺とお前だけか. ひとつ目野郎.
+DialogText=Duke: さしで勝負だぜ, この一つ目の化け物.
+// DialogText=Duke: It's down to you and me, you one-eyed freak.
 
 [TriggerDialog___84]
-DialogText=Kate Holsom: (クスクス) 変なの.
+DialogText=Kate Holsom: (忍び笑い) 変なの.
 
 [TriggerPlayer___16]
 BossMeterName=
@@ -84,7 +86,7 @@ DialogText=EDF #3: インプットは大事だ. 案があったら今, 追加し
 DialogText=EDF #3: あんたの案は実際使えるかもな, さすがだ. なぁ?
 
 [TriggerDialog___70]
-DialogText=Kate Holsom: 明かりつけて. あの艦の側だから気味悪いよー.
+DialogText=Kate Holsom: 明かりつけて. あの艦の側だから気味悪いの.
 
 [TriggerDialog___76]
 DialogText=TV: 大統領は攻撃的に映るような行動を避けるよう求めています.
@@ -99,7 +101,7 @@ DialogText=TV: 例として, 艦の近くで火器を投げたり, 低俗な身�
 DialogText=Mary Holsom: だめ..! 私を抱いて!
 
 [TriggerDialog___65]
-DialogText=Kate Holsom: 暗いの怖いー. 抱きしめて!
+DialogText=Kate Holsom: 暗いの怖いの. 抱きしめて!
 
 [TriggerDialog___68]
 DialogText=Mary Holsom: ショーのあとで会いましょ. OK?
@@ -114,10 +116,10 @@ Message=$Key(Use) で終了
 DialogText=Kate Holsom: あー見て, 私たちが映ってる.
 
 [TriggerDialog___95]
-DialogText=Mary Holsom: 楽しかったー! 良かったかな, ベイビー?
+DialogText=Mary Holsom: 楽しかったー! 良かったかなぁ, ベイビー?
 
 [TriggerDialog___10]
-DialogText=Kate Holsom: (クスクス)
+DialogText=Kate Holsom: (忍び笑い)
 
 [TriggerPlayer___10]
 BossMeterName=Cycloid
@@ -160,6 +162,7 @@ DialogText=Mary Holsom: あの時の髪型すごい可愛かったよ Kate!
 
 [TriggerDialog___89]
 DialogText=Kate Holsom: Duke が一番なの.
+// DialogText=Kate Holsom: You are the best, Duke!
 
 [TriggerDialog___91]
 DialogText=Kate Holsom: そっちの玉で遊んでる時間ないでしょ.
@@ -180,7 +183,7 @@ DialogText=Mary Holsom: それに明かり付けてる方が好きだと思っ�
 DialogText=Mary Holsom: 行って. 私たち準備があるの! もう.
 
 [TriggerDialog___59]
-DialogText=Mary Holsom: いい加減... ごめん! 時間ないのよ.
+DialogText=Mary Holsom: いい加減... ごめん! 時間ないのよぉ.
 
 [TriggerDialog___64]
 DialogText=Kate Holsom: もう, 暗くして遊ぶ時間はあとであるでしょ.
@@ -225,13 +228,16 @@ DialogText=EDF: 俺たちは今どうすりゃいいんだ?
 DialogText=EDF #3: マーカーを使ってあんたの戦略を教えてくれないか?
 
 [TriggerDialog___49]
-DialogText=Mary Holsom: きっと前みたいに打ち負かしちゃうわ...
+DialogText=Mary Holsom: きっと前みたいに打ち負かしちゃうんでしょ..?
+// DialogText=Mary Holsom: You sure haven't lost your touch...
 
 [TriggerDialog___56]
-DialogText=Mary Holsom: でも大統領が間違ってたらみんなを守るんでしょ?
+DialogText=Mary Holsom: でも President が間違ってたらみんなを守るんでしょ?
+// DialogText=Mary Holsom: But you'll protect everyone if the President is wrong about them, won't you Duke?
 
 [TriggerDialog___55]
 DialogText=Mary Holsom: 艦がここからでも見えるの! あれって 12 年前 Duke が戦ったのと同じじゃないかって...
+// DialogText=Mary Holsom: I can see the ships from here! I wonder if it's the same aliens you had to fight twelve years ago.
 
 [TriggerDialog___57]
 DialogText=Kate Holsom: そりゃそうでしょ, バカ. 何で戻って来たと思う? Duke がここに住んでるから! こんにちはって?
@@ -264,7 +270,8 @@ DialogText=EDF:  くそ. あのくそったれの大きさを見ろ.
 DialogText=EDF: おまえらあのデカさ見たか?
 
 [TriggerDialog___41]
-DialogText=EDF: ああ, あのひとつ目野郎にやられた.
+DialogText=EDF: ああ, あの一つ目の化け物にやられた.
+// DialogText=EDF: My god that one-eyed freak fucked us up.
 
 [TriggerDialog___42]
 DialogText=EDF: あんなのどうやって倒すんだ?
@@ -327,5 +334,5 @@ DialogText=Duke: オーッ.
 DialogText=Kate Holsom: そっちの玉で遊ぶのはおしまいっ.
 
 [TriggerDialog___52]
-DialogText=Kate Holsom: (クスクス)
+DialogText=Kate Holsom: (忍び笑い)
 
