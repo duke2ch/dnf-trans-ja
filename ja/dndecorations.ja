@@ -1,130 +1,178 @@
 [LabEquipment_Tech_HoseCoupling]
 UsePhrase=掴む
+// UsePhrase=Grab
 
 [Details_Balls_BasketBall]
 UsePhrase=掴む
+// UsePhrase=Grab
 
 [dnControl_Battery_Housing]
 UsePhrase=バッテリーを入れる
+// UsePhrase=Insert Battery
 
 [dnControl_GasTank]
 UsePhrase=燃料のノズルを入れる
 FindGasText=燃料を見つけて補充しろ
+// UsePhrase=Insert Gas Can Nozzle
+// FindGasText=Find a gas can and fill the tank
 
 [Settings_Workout_HandWeights]
 UsePhrase=掴む
 GrabUsePhrase=Curl
+// UsePhrase=Grab
+// GrabUsePhrase=Curl
 
 [Containers_Pile_InfiniteAmmo]
 UsePhrase=弾薬を補充する
+// UsePhrase=Get Ammo
 
 [Furniture_Generic_Chair_Barstool_StripClub]
 UsePhrase=回す
+// UsePhrase=Spin
 
 [Furniture_Generic_Chair_Office_B]
 UsePhrase=回す
+// UsePhrase=Spin
 
 [Battery]
 QuestItemTip=Use the Battery to power up the crane
+// QuestItemTip=Use the Battery to power up the crane
 
 [gascan]
 QuestItemTip=燃料を持って Monster Truck に戻れ
+// QuestItemTip=Return to the Monster Truck with the Gas
 
 [Details_Generic_DVD]
 UsePhrase=掴む
+// UsePhrase=Grab
 
 [Details_Generic_Frisbee]
 UsePhrase=掴む
+// UsePhrase=Grab
 
 [Biology_Generic_Poop_A]
 UsePhrase=掴む
+// UsePhrase=Grab
 
 [Containers_Pile_InfiniteExplosives]
 UsePhrase=爆薬を補充する
+// UsePhrase=Get Explosives
 
 [Details_Generic_PaperAirplane]
 UsePhrase=掴む
+// UsePhrase=Grab
 
 [Industrial_Generic_ConcreteBlock_A]
 UsePhrase=掴む
+// UsePhrase=Grab
 
 [Details_Generic_Vibrator]
 QuestItemUsePhrase=掴む
+// QuestItemUsePhrase=Grab
 
 [aFinalDecoration_DoorBase]
 UsePhrase=開く
+// UsePhrase=Open
 
 [Details_Generic_PornMag]
 UsePhrase=掴む
+// UsePhrase=Grab
 
 [dnControl_Ladder]
 UsePhrase=登る
+// UsePhrase=Climb
 
 [Biology_Generic_AnusDoor]
 UsePhrase=開く
+// UsePhrase=Open
 
 [Details_Generic_CondomPacket]
 UsePhrase=掴む
+// UsePhrase=Grab
 
 [DA_HUD_Replace_Locked]
 UsePhrase=Locked
+// UsePhrase=Locked
 
 [dnControl_VentRip_CircularGymVent]
 UsePhrase=むしり取る
 TapUsePhrase=連打でこじ開ける
+// UsePhrase=Rip Off
+// TapUsePhrase=Tap repeatedly to force open
 
 [Biology_Generic_WallBoobs]
 UsePhrase=叩く
+// UsePhrase=Slap
 
 [dnControl_Copier]
 UsePhrase=開く
 MakeCopyPhrase=Make a copy
+// UsePhrase=Open
+// MakeCopyPhrase=Make a copy
 
 [Details_Generic_DVDCase]
 UsePhrase=掴む
+// UsePhrase=Grab
 
 [Details_Generic_DrinkCan]
 UsePhrase=飲む
+// UsePhrase=Drink
 
 [Details_Generic_Trophies]
 UsePhrase=掴む
+// UsePhrase=Grab
 
 [dnControl_TapPowered_DoorBase]
 UsePhrase=開く
 TapUsePhrase=連打でこじ開ける
+// UsePhrase=Open
+// TapUsePhrase=Tap repeatedly to force open
 
 [dnControlHelper_WorkoutBench_Bar]
 UsePhrase=ウェイトを減らす
 GrabUseCombinePhrase=ウェイトを足す
+// UsePhrase=Remove Weight
+// GrabUseCombinePhrase=Add Weight
 
 [Details_Generic_VendSnack]
 UsePhrase=食べる
+// UsePhrase=Eat
 
 [Barrels_Generic]
 UsePhrase=掴む
+// UsePhrase=Grab
 
 [Settings_Workout_BarWeight_100lbs]
 UsePhrase=掴む
+// UsePhrase=Grab
 
 [Details_Generic_CigarettePack]
 UsePhrase=掴む
+// UsePhrase=Grab
 
 [Electronics_Generic_CoffeeMachine]
 GrabUseCombinePhrase=ポットを置く
+// GrabUseCombinePhrase=Place Pot
 
 [Biology_Generic_AnusDoorFanged]
 UsePhrase=開く
+// UsePhrase=Open
 
 [dnControl_NutAndBolt]
 GrabUseCombinePhrase=ナットを付ける
+// GrabUseCombinePhrase=Attach Nut
 
 [Electronics_Generic_DVDPlayer]
 CloseTrayMessage=トレイを閉じる
 UsePhrase=トレイを開く
 GrabUseCombinePhrase=DVD を入れる
+// CloseTrayMessage=Close Tray
+// UsePhrase=Open Tray
+// GrabUseCombinePhrase=Insert DVD
 
 [Details_Balls_PoolBall]
-UsePhrase=ボールを打つ
+UsePhrase=打つ
+// UsePhrase=Hit Ball
 
 [Electronics_Generic_Microwave]
 GrabUseCombinePhrase=置く
@@ -135,44 +183,67 @@ MicrowaveUsePhrase=チンする
 MicrowavingUsePhrase=Nuking...
 TakeUsePhrase=取り出す
 EatUsePhrase=食べる
+// GrabUseCombinePhrase=Place
+// OpenUsePhrase=Open
+// CloseUsePhrase=Close
+// PutInMicrowaveUsePhrase=Put in Microwave
+// MicrowaveUsePhrase=Begin Microwaving
+// MicrowavingUsePhrase=Nuking...
+// TakeUsePhrase=Take Item
+// EatUsePhrase=Eat Item
 
 [Furniture_Generic_Chair_Tech_B]
 UsePhrase=回す
+// UsePhrase=Spin
 
 [dnControl_WorkoutBench]
 TapUsePhrase=連打でリフトアップする
+// TapUsePhrase=Tap repeatedly to lift
 
 [dnControl_ElevatorBrake]
 UsePhrase=使う
-PullPhrase=レバーを引く
+PullPhrase=Lever  を引く
+// UsePhrase=Use
+// PullPhrase=Pull Lever
 
 [Settings_LadyKiller_DestructibleVase]
-UsePhrase=使う
+UsePhrase=掴む
+// UsePhrase=Grab
 
 [Containers_GarbageCan_Medium_Round_Gold]
-UsePhrase=使う
+UsePhrase=掴む
+// UsePhrase=Grab
 
 [Furniture_Generic_Chair_MakeupChair]
 UsePhrase=回す
+// UsePhrase=Spin
 
 [Electronics_Generic_EmergencyHatchRelease]
 UsePhrase=使う
+// UsePhrase=Use
 
 [Settings_FoodService_FloorFridge_Door]
 UsePhrase=開く
+// UsePhrase=Open
 
 [Snack_Popcorn]
 UsePhrase=掴む
+// UsePhrase=Grab
 
 [dnControl_CoinOp_SlotMachine]
 SpinText=回す
+// SpinText=Spin
 
 [aFinalDecoration_Switches]
 PausedMessage=Please Wait...
 DisabledMessage=Disabled
+// PausedMessage=Please Wait...
+// DisabledMessage=Disabled
 
 [dnControl_Chair_Throne]
 StandUpPrompt=立つ
+// StandUpPrompt=Stand Up
 
 [dnControl_CoinOp_Poker]
 TouchScreenText=画面に触れる
+// TouchScreenText=Touch Screen
