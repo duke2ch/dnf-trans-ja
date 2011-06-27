@@ -26,7 +26,7 @@ DialogText=Dylan: Duke, 後退だ.
 // DialogText=Dylan: Duke, stand back.
 
 [TriggerDialog___6]
-DialogText=Dylan: I need to go update Graves on this shit storm.
+DialogText=Dylan: 俺は戦況を Graves に報告してくる.
 // DialogText=Dylan: I need to go update Graves on this shit storm.
 
 [TriggerDialog___7]
@@ -70,7 +70,7 @@ DialogText=Duke: 畜生, Leroy!
 // DialogText=Duke: Dammit, Leroy!
 
 [TriggerHint___0]
-Messageボスは機関銃か爆発物でのみダメージを受けます
+Message=ボスは機関銃か爆発物でのみダメージを受けます
 // Message=Boss enemies are only vulnerable to turrets and explosive weapons
 
 [TriggerDialog___0]
