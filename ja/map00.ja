@@ -113,7 +113,7 @@ DialogText=Kate Holsom: 明かりつけて. あの艦の側だから気味悪い
 // DialogText=Kate Holsom: Duke, turn the lights back on. It's creepy with those ships out there.
 
 [TriggerDialog___76]
-DialogText=TV: 国民の皆様には攻撃的に映るような行動を避けるよう求められています.
+DialogText=TV: 私たちは攻撃的に映るような行動を避けるよう求められています.
 // DialogText=TV: He urged all citizens to avoid taking any actions that may seem aggressive,
 
 [TriggerDialog___75]
@@ -319,7 +319,7 @@ DialogText=TV: 今夜 12 時は世界でただ一人, Duke Nukem 氏のインタ
 // DialogText=TV: Tune in tonight at midnight to see my interview with the one, the only Duke Nukem! He'll talk about his new-
 
 [TriggerDialog___62]
-DialogText=TV: ...尚, エイリアン艦に関する新しい情報は入って着ていません.
+DialogText=TV: ...尚, エイリアン艦に関する新しい情報は入ってきていません.
 // DialogText=TV: ...and there are still no reports of any activity from the alien ships.
 
 [TriggerDialog___99]
@@ -391,7 +391,7 @@ DialogText=EDF #2: えぇと, 潰す?
 // DialogText=EDF #2: Uh, profit?
 
 [TriggerDialog___103]
-DialogText=EDF #1: ステップ 1 よし! Alpha Team は真正面から! Blake と Flank は左! Phillips と俺は周回だ. それがステップ 2. ステップ 3 は... えぇと...
+DialogText=EDF #1: ステップ 1 よし! Alpha Team は真正面から! Blake と Flank は左! Phillips と俺は頭を打つ. それがステップ 2. ステップ 3 は... えぇと...
 // DialogText=EDF #1: All right, step one! Alpha Team straight up the middle! Blake! Flank left! Phillips and I head around. That's step two. Step three is... uh... uh...
 
 [TriggerDialog___104]
