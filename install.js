@@ -5,9 +5,8 @@
  */
 
 (function() {
-    var dist_path,
-        dist_files,
-        dnf_path,
+    var dist_files,
+        popup_return,
         pwd,
         wsapp = WScript.CreateObject('Shell.Application'),
         wsfs = WScript.CreateObject('Scripting.FileSystemObject'),
@@ -16,19 +15,51 @@
             wsfs.BuildPath(wsfs.GetSpecialfolder(1).Path, 'kernel32.dll')
         );
 
-    // UAC tricks for Windows Vista or later
-    if (parseInt(os_ver) >= 6) {
-        if (WScript.Arguments.length === 0) { 
-            wsapp.ShellExecute(
-                'wscript.exe',
-                '"' + WScript.ScriptFullName + '"' + ' "' +
-                    wssh.CurrentDirectory + '"',
-                '',
-                'runas',
-                1
-            ); 
-            WScript.Quit(0);
+    function stop(message) {
+        wssh.Popup(message, 0, 'Abort process', 0 + 16);
+        WScript.Quit();
+    }
+
+    function getDistPath() {
+        var path = pwd + '\\dist';
+
+        if (wsfs.FolderExists(path)) {
+            return path;
         }
+        else {
+            stop('Can\'t find "dist" folder');
+        }
+    }
+
+    function getDNFPath() {
+        var dnf = '\\Steam\\steamapps\\common\\duke nukem forever\\System\\',
+            path = wssh.ExpandEnvironmentStrings('%PROGRAMFILES%') + dnf,
+            path_x86 = wssh.ExpandEnvironmentStrings('%PROGRAMFILES(X86)%') +
+                dnf; 
+
+        if (wsfs.FolderExists(path_x86)) {
+            return path_x86;
+        }
+        else if (wsfs.FolderExists(path)) {
+            return path;
+        }
+        else {
+            stop('Can\'t find Duke Nukem Forever');
+        }
+    }
+
+    // UAC tricks for Windows Vista or later
+
+    if (parseInt(os_ver) >= 6 && WScript.Arguments.length === 0) {
+        wsapp.ShellExecute(
+            'wscript.exe',
+            '"' + WScript.ScriptFullName + '"' + ' "' +
+                wssh.CurrentDirectory + '"',
+            '',
+            'runas',
+            1
+        ); 
+        WScript.Quit(0);
     }
 
     if (WScript.Arguments.length === 1) {
@@ -39,31 +70,28 @@
     }
 
     // Start script
-    function getDNFPath() {
-        var path_x64 = wssh.ExpandEnvironmentStrings('%PROGRAMFILES(X86)%') +
-                '\\Steam\\steamapps\\common\\duke nukem forever',
-            path_x86 = wssh.ExpandEnvironmentStrings('%PROGRAMFILES%') +
-                '\\Steam\\steamapps\\common\\duke nukem forever';
 
-        if (wsfs.FolderExists(path_x64)) {
-            return path_x64;
-        }
-        else if (wsfs.FolderExists(path_x86)) {
-            return path_x86;
-        }
+    popup_return = wssh.Popup(
+        'This script trys to find Duke Nukem Forever and replace English subtitle files to Japanese one. THIS SCRIPT DO NOT BACKUP ANYTHING!',
+        0,
+        'Override files',
+        1 + 48
+    );
+
+    if (popup_return === 2) {
+        return;
     }
 
-    if (wsfs.FolderExists(pwd + '\\dist') &&
-            wsfs.FolderExists(getDNFPath() + '\\System')) {
-        dist_path = pwd + '\\dist';
-        dnf_path = getDNFPath() + '\\System\\'; // Close with \\ IMPORTANT!
-    }
-
-    dist_files = new Enumerator(wsfs.GetFolder(dist_path).Files);
+    dist_files = new Enumerator(wsfs.GetFolder(getDistPath()).Files);
 
     for (dist_files.moveFirst(); !dist_files.atEnd(); dist_files.moveNext()) {
-        wsfs.CopyFile(dist_files.item(), dnf_path, true);
+        wsfs.CopyFile(dist_files.item(), getDNFPath(), true);
     }
 
-    WScript.Echo('Done.');
+    wssh.Popup(
+        'Subtitle files are all replaced.',
+        0,
+        'Done',
+        0 + 64
+    );
 })();
