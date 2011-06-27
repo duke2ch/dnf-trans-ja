@@ -55,7 +55,7 @@ DialogText=President: 君は必要ない. この件には関わるな. これは
 // DialogText=President: You are not required. Do not get involved. That's an order.
 
 [TriggerDialog___1]
-DialogText=コンピューター: 動力炉停止中. エネルギーセル 2 つを交感して下さい.
+DialogText=コンピューター: 動力炉停止中. エネルギーセル 2 つを交換して下さい.
 // DialogText=Computer: Reactor offline. Replace two energy cells.
 
 [TriggerDialog___23]
@@ -91,7 +91,7 @@ DialogText=President: 攻撃を仕掛けてから話し合いというわけに�
 // DialogText=President: We can't afford to shoot first and ask questions later just because we suspect they might still have WMDs.
 
 [TriggerDialog___7]
-DialogText=コンピューター: 動力炉停止中. エネルギーセルを交感して下さい.
+DialogText=コンピューター: 動力炉停止中. エネルギーセルを交換して下さい.
 // DialogText=Computer: Reactor offline. Replace energy cells.
 
 [TriggerDialog___21]
@@ -131,7 +131,7 @@ LockedDoorMsg=開く
 // LockedDoorMsg=Open
 
 [TriggerDialog___28]
-DialogText=コンピューター: 動力炉停止中. 最後のエネルギーセルを交感して下さい.
+DialogText=コンピューター: 動力炉停止中. 最後のエネルギーセルを交換して下さい.
 // DialogText=Computer: Reactor offline. Replace the last energy cell.
 
 [TriggerDialog___27]
