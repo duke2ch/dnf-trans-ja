@@ -7,7 +7,7 @@ Message=$Key(VehicleBoost)  で Turbo Boost
 // Message=Press  $Key(VehicleBoost)  for Turbo Boost
 
 [TriggerDialog___70]
-DialogText=Duke: Duke は無敵だ
+DialogText=Duke: Duke に賭ければ間違いない.
 // DialogText=Duke: Always bet on Duke.
 
 [TriggerDialog___17]
