@@ -1,40 +1,56 @@
 [dnControl_ATCaptain_WildRide]
 PunchText=殴る
+// PunchText=Punch
 
 [dnControl_AlienQueen_FinishingMove]
 UsePhrase=掴む
+// UsePhrase=Grab On
 
 [dnControl_EnergyLeech_Boss_BattleFinish]
 UsePhrase=開く
 TapUsePhrase=連打でこじ開ける
+// UsePhrase=Open
+// TapUsePhrase=Tap repeatedly to force open
 
 [dnControl_CycloidHumiliation_FieldGoal]
 UsePhrase=フィールドゴールを決める
+// UsePhrase=Kick Field Goal
 
 [dnControl_BattleLord_BattleA]
 UsePhrase=登る
 TapUsePhrase=連打でむしり取る
+// UsePhrase=Climb
+// TapUsePhrase=Tap repeatedly to rip out
 
 [dnControl_Cycloid_BattleA]
 UsePhrase=登る
 TapUsePhrase=連打でむしり取る
+// UsePhrase=Climb
+// TapUsePhrase=Tap repeatedly to rip out
 
 [dnControl_BattleLord_FinishingMove]
 UsePhrase=金的を決める
+// UsePhrase=Humiliate
 
 [Rat]
 UsePhrase=掴む
 GrabUsePhrase=潰す
+// UsePhrase=Grab
+// GrabUsePhrase=Squish
 
 [dnControl_CycloidHumiliation_EyeUrinal]
 UsePhrase=眼に小便をかける
+// UsePhrase=Piss In Eye
 
 [dnControl_PigCop_Grapple]
 TapUsePhrase=連打で拘束を解く
+// TapUsePhrase=Tap repeatedly to break free
 
 [dnControl_PregnatorFaceHump]
 TapUsePhrase=連打で拘束を解く
+// TapUsePhrase=Tap repeatedly to break free
 
 [DigsGirl]
 UsePhrase=色目を使う
+// UsePhrase=Ogle
 
