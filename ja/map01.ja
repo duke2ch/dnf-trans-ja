@@ -906,7 +906,7 @@ DialogText=男: 腕にあんたのサインのタトゥーを彫ったんだよ.
 // DialogText=Male: I had your autograph tattooed on my arm.
 
 [TriggerDialog___5]
-DialogText=男: Boom!
+DialogText=男: ドドーン!
 // DialogText=Male: Boom!
 
 [TriggerDialog___326]
