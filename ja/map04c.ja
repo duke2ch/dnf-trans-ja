@@ -15,7 +15,7 @@ DialogText=EDF: 自分の腕を使うんだよ! あーいや, 彼の腕か. ん.
 // DialogText=EDF: Use your own arm! I mean, his arm. Er... never mind.
 
 [TriggerDialog___93]
-DialogText=EDF: What, you don't want to touch yourself? Get up here.
+DialogText=EDF: 何だよ, 自分を汚したくないってか? いいから登ってこいよ.
 // DialogText=EDF: What, you don't want to touch yourself? Get up here.
 
 [TriggerDialog___68]
@@ -47,7 +47,8 @@ Message=Fire Extinguishers の破壊で近くの炎を消火できます
 // Message=Fire Extinguishers can be destroyed to put out nearby fires
 
 [TriggerDialog___46]
-DialogText=EDF: Hey, over here!
+DialogText=EDF: おい, こっちだ!
+// DialogText=EDF: Hey, over here!
 
 [TriggerDialog___51]
 DialogText=Graves 将官: さて, Central Command はレーダー上にエイリアンの戦闘機が数十隻単位で襲来しているのを探知した. 母艦の破壊の影響は微塵もないようだ.
@@ -82,7 +83,7 @@ DialogText=Graves 将官: エイリアン共はまとまった数で襲来して
 // DialogText=General Graves: The aliens are pouring in by the dozen. They've taken the dam, Duke... the Hoover Dam!
 
 [TriggerDialog___0]
-DialogText=McReady: なんでお前そんなノロマなんだ?
+DialogText=McReady: お前全然分かってないな.
 // DialogText=McReady: Why are you such a douche?
 
 [TriggerDialog___52]
@@ -114,7 +115,7 @@ DialogText=McReady: そんな甘っちょろい言い方 Duke Nukem の前で言
 // DialogText=McReady: You don't say "cause some damage" around Duke Nukem, man...you say we're gonna go bust some balls or tear shit up or something like that.
 
 [TriggerDialog___15]
-DialogText=Clarke: あー, えっと, そうだな. LET'S RUPTURE SOME SPLEENS TOGETHER!
+DialogText=Clarke: あー, えっと, そうだな. いっしょにてきのおなかをひきさこう!
 // DialogText=Clarke: Oh, um, right, ah. LET'S RUPTURE SOME SPLEENS TOGETHER!
 
 [LevelSummary]
