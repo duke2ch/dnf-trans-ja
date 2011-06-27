@@ -2,7 +2,8 @@
 LocationName=First Down
 
 [TriggerHint___2]
-Message=$Key(Use) で終了
+Message=$Key(Use) で Exit
+// Message=$Key(Use) to Exit
 
 [TriggerDialog___96]
 DialogText=Kate Holsom: (忍び笑い)
@@ -14,54 +15,71 @@ IdealPlayerCount=<?int?Map00.LevelInfo0.IdealPlayerCount?>
 
 [TriggerDialog___67]
 DialogText=Mary Holsom: もう, かくれんぼしたいの?
+// DialogText=Mary Holsom: Ooo, you want to play hide and seek?
 
 [TriggerDialog___20]
 DialogText=Mary Holsom: またいつでもその... プレイ... したいなら, 教えてね!
+// DialogText=Mary Holsom: Well, any time you wanna... play... again, just let us know!
 
 [TriggerDialog___25]
-DialogText=EDF: Devastator はあなたの物ですよ.
+DialogText=EDF: あの Devastator はあなたの物ですよ.
+// DialogText=EDF: That Devastator is all yours, Duke.
 
 [TriggerDialog___21]
 DialogText=Duke: 溜まってるな.
+// DialogText=Duke: This is taking forever.
 
 [TriggerDialog___22]
 DialogText=補給艦: Delta Kappa Echo 応答しろ, 確認した. こちら Yankee-One-Niner. 弾薬供給に向かっている.
+// DialogText=Dropship: Come in Delta Kappa Echo, come in Delta Kappa Echo, acknowledge. This is Yankee-One-Niner. Ammo resupply is on the way.
 
 [TriggerDialog___8]
 DialogText=Kate Holsom: そうかな? Mary も可愛かったよ!
+// DialogText=Kate Holsom: I know, right? So did yours.
 
 [TriggerDialog___9]
 DialogText=Duke: パーティーで.
+// DialogText=Duke: See you at the party.
 
 [TriggerDialog___18]
 DialogText=TV: Holsom 姉妹ライヴ - 18 になるのが待ちきれない.
+// DialogText=TV: Holsom Twins Live - I Can't Wait to Turn 18.
 
 [TriggerDialog___16]
 DialogText=Kate Holsom: ねぇ気をつけてね. ショーのあとパーティーでね, OK?
+// DialogText=Kate Holsom: Oh Duke, be careful out there. We'll see you at the party after the show, 'kay?
 
 [TriggerDialog___19]
 DialogText=Kate Holsom: ゲームどう? 私たちより良かったの..?
+// DialogText=Kate Holsom: What about the game, Duke? Was it any good?
 
 [TriggerDialog___15]
 DialogText=EDF: よし, やったぞ.
+// DialogText=EDF: All right, we got 'em.
 
 [TriggerDialog___24]
 DialogText=補給艦: 補充弾薬を投下した. 煙のたなびきの所だ.
+// DialogText=Dropship: Ammo supplies are dropped. Smoke trails mark the spot.
 
 [TriggerDialog___23]
 DialogText=Duke: 俺の仕事はブタ野郎の退治だ. 世間話する事じゃぁない.
+// DialogText=Duke: My job is to kick ass, not make small talk.
 
 [TriggerDialog___7]
 DialogText=EDF: 明かりは俺に任せろ.
+// DialogText=EDF: I'll get the lights back on.
 
 [TriggerDialog___6]
 DialogText=Duke: 段違いだ.
+// DialogText=Duke: Ah, much better.
 
 [TriggerDialog___4]
 DialogText=EDF: さぁどうする? 一人で世界を守るつもりか?
+// DialogText=EDF: Hey, pal, what are you gonna do? Save the world all by yourself?
 
 [TriggerDialog___5]
 DialogText=EDF: 洗面台に水を張ったらいいのかい?
+// DialogText=EDF: Want me to turn the water in the sink on or something?
 
 [TriggerDialog___2]
 DialogText=Duke: さしで勝負だぜ, この一つ目の化け物.
@@ -69,96 +87,124 @@ DialogText=Duke: さしで勝負だぜ, この一つ目の化け物.
 
 [TriggerDialog___84]
 DialogText=Kate Holsom: (忍び笑い) 変なの.
+// DialogText=Kate Holsom: (giggles) That's funny.
 
 [TriggerPlayer___16]
 BossMeterName=
 
 [TriggerHint___1]
 Message=エレベーターで降りてトークショーに向かえ
+// Message=Take the elevator down to the talk show
 
 [TriggerDialog___112]
 DialogText=EDF #3: すごいな! いいんじゃないか.
+// DialogText=EDF #3: Oh, man! Good plan, Duke.
 
 [TriggerDialog___109]
 DialogText=EDF #3: インプットは大事だ. 案があったら今, 追加してくれていいんだぜ.
+// DialogText=EDF #3: We could really use some input, Duke, if you just want to add your thoughts to the plan, now would be a good time, Duke.
 
 [TriggerDialog___107]
 DialogText=EDF #3: あんたの案は実際使えるかもな, さすがだ. なぁ?
+// DialogText=EDF #3: Could really use your help, man. What do you think?
 
 [TriggerDialog___70]
 DialogText=Kate Holsom: 明かりつけて. あの艦の側だから気味悪いの.
+// DialogText=Kate Holsom: Duke, turn the lights back on. It's creepy with those ships out there.
 
 [TriggerDialog___76]
-DialogText=TV: 大統領は攻撃的に映るような行動を避けるよう求めています.
+DialogText=TV: 国民の皆様には攻撃的に映るような行動を避けるよう求められています.
+// DialogText=TV: He urged all citizens to avoid taking any actions that may seem aggressive,
 
 [TriggerDialog___75]
-DialogText=TV: 大統領は火曜日の演説で, エイリアンの訪問に対して, 警戒は怠らないが好意的に捉えていると話しました.
+DialogText=TV: 火曜日の演説で, President は近頃のエイリアンの訪問に対して, 警戒は怠らないが好意的に捉えていると話しました.
+// DialogText=TV: In his speech on Thursday, the President said he remains cautious but optimistic regarding the recent alien visitation.
 
 [TriggerDialog___51]
 DialogText=TV: 例として, 艦の近くで火器を投げたり, 低俗な身振りをするといった行為が挙げられています.
+// DialogText=TV: such as discharging firearms or making lewd gestures in the vicinity of the ships.
 
 [TriggerDialog___46]
 DialogText=Mary Holsom: だめ..! 私を抱いて!
+// DialogText=Mary Holsom: No... Hold me!
 
 [TriggerDialog___65]
 DialogText=Kate Holsom: 暗いの怖いの. 抱きしめて!
+// DialogText=Kate Holsom: I'm scared of the dark. Hold me!
 
 [TriggerDialog___68]
 DialogText=Mary Holsom: ショーのあとで会いましょ. OK?
+// DialogText=Mary Holsom: We'll see you after the show. 'Kay?
 
 [TriggerDialog___90]
 DialogText=Duke: エイリアン野郎共, この借りは返してもらうぜ.
+// DialogText=Duke: Those alien bastards are going to pay for shooting up my ride.
 
 [TriggerHint___12]
-Message=$Key(Use) で終了
+Message=$Key(Use) で Exit
+// Message=$Key(Use) to Exit
 
 [TriggerDialog___97]
 DialogText=Kate Holsom: あー見て, 私たちが映ってる.
+// DialogText=Kate Holsom: Ah look, Duke. They're playing our video.
 
 [TriggerDialog___95]
 DialogText=Mary Holsom: 楽しかったー! 良かったかなぁ, ベイビー?
+// DialogText=Mary Holsom: That was fun! Was it good for you, baby?
 
 [TriggerDialog___10]
 DialogText=Kate Holsom: (忍び笑い)
+// DialogText=Kate Holsom: (giggles)
 
 [TriggerPlayer___10]
 BossMeterName=Cycloid
 
 [TriggerDialog___114]
 DialogText=EDF #3: この作戦はあんたのものだ. ブタ野郎は任せたぜ.
+// DialogText=EDF #3: You're the man with the plan, Duke. Go kick some ass.
 
 [TriggerDialog___113]
 DialogText=EDF #3: へぇ, やばいな上手く行くかも.
+// DialogText=EDF #3: Huh, that's so crazy it just might work.
 
 [TriggerDialog___31]
 DialogText=EDF: エイリアン捕捉!
+// DialogText=EDF: Alien spotted!
 
 [TriggerDialog___28]
 DialogText=Duke: 射的にみたいなもんだ. 撃てば撃つほど上達する.
+// DialogText=Duke: It's like target practice. The more you shoot, the better you get.
 
 [TriggerDialog___27]
 DialogText=EDF: 多くを語らないんだろ?
+// DialogText=EDF: You don't talk a lot, do you?
 
 [TriggerDialog___29]
 DialogText=EDF: So listen, I'm having some trouble with the ladies. Any suggestions?
 
 [TriggerDialog___30]
 DialogText=EDF: 一体どういう事だ?
+// DialogText=EDF: What the hell does that even mean?
 
 [TriggerDialog___93]
 DialogText=補給艦: 弾薬投下中だ. 煙のたなびきを探せ.
+// DialogText=Dropship: Ammo dump in progress, Duke. Look for the smoke trails.
 
 [TriggerDialog___72]
 DialogText=Kate Holsom: マウスウォッシュほしいー.
+// DialogText=Kate Holsom: I need some mouth wash.
 
 [TriggerDialog___87]
 DialogText=Kate Holsom: イェイ!
+// DialogText=Kate Holsom: Yeah!
 
 [TriggerDialog___32]
 DialogText=EDF: 敵襲!!!
+// DialogText=EDF: Incoming!!!
 
 [TriggerDialog___86]
 DialogText=Mary Holsom: あの時の髪型すごい可愛かったよ Kate!
+// DialogText=Mary Holsom: Your hair looked so good that day.
 
 [TriggerDialog___89]
 DialogText=Kate Holsom: Duke が一番なの.
@@ -166,66 +212,87 @@ DialogText=Kate Holsom: Duke が一番なの.
 
 [TriggerDialog___91]
 DialogText=Kate Holsom: そっちの玉で遊んでる時間ないでしょ.
+// DialogText=Kate Holsom: Duke, you don't have time to play with your balls.
 
 [TriggerDialog___33]
 DialogText=EDF: 全員, 構えろ!
+// DialogText=EDF: Everybody, get ready!
 
 [TriggerDialog___34]
-DialogText=EDF: 怖い夢見ちゃうー.
+DialogText=EDF: 今夜はうなされそうだ.
+// DialogText=EDF: I'm going to have nightmares.
 
 [TriggerDialog___63]
 DialogText=EDF: どうぞごゆっくり. 私のやる気の源, 何だと思います? 海が好きなんですよ. 水で満たされ, 穏やかな波が海岸に打ちつける...
+// DialogText=EDF: Sure taking your time there, Duke. You know what helps me? I like to think of the ocean. All that water, nice calm waves smashing into the shore...
 
 [TriggerDialog___69]
 DialogText=Mary Holsom: それに明かり付けてる方が好きだと思ってたんだけど...
+// DialogText=Mary Holsom: And I thought you liked it with the lights on.
 
 [TriggerDialog___66]
 DialogText=Mary Holsom: 行って. 私たち準備があるの! もう.
+// DialogText=Mary Holsom: Go on, Duke. We have to get ready, duh...
 
 [TriggerDialog___59]
 DialogText=Mary Holsom: いい加減... ごめん! 時間ないのよぉ.
+// DialogText=Mary Holsom: You don't want to... No! We don't have time.
 
 [TriggerDialog___64]
 DialogText=Kate Holsom: もう, 暗くして遊ぶ時間はあとであるでしょ.
+// DialogText=Kate Holsom: Come on Duke, we'll have time for playing in the dark later.
 
 [TriggerDialog___48]
 DialogText=Kate Holsom: 出てって. 女の子は一人の時間が必要なの.
+// DialogText=Kate Holsom: Duke, get out of here. Girls need some alone time.
 
 [TriggerDialog___71]
 DialogText=Kate Holsom: 私たちは大丈夫. ショーは下でしょ.
+// DialogText=Kate Holsom: Don't worry about us, Duke. Go on down to the show.
 
 [TriggerDialog___39]
-DialogText=Duke: (ブツブツ)
+DialogText=Duke: (ぶつくさ言う声)
+// DialogText=Duke: (grunts)
 
 [TriggerDialog___37]
 DialogText=EDF: 俺たちは今どうすりゃいいんだ?
+// DialogText=EDF: What the hell do we do now?
 
 [TriggerHint___15]
 Message=ヒント : ボスは爆発物でのみダメージを受けます
+// Message=Hint : Boss enemies are only vulnerable to explosive damage
 
 [TriggerDialog___58]
 DialogText=Duke: ああ, あれから 12 年だからな, 思い返せばってやつか.
+// DialogText=Duke: Yeah, but after twelve fucking years, it should be.
 
 [TriggerDialog___117]
 DialogText=EDF #3: ジーニアスだ.
+// DialogText=EDF #3: That's genius.
 
 [TriggerDialog___116]
 DialogText=EDF #3: 何てこった. これは... いや俺にはさっぱりだが, これならあそこの奴はまだ腕と玉があっただろうな, 賭けるよ!
+// DialogText=EDF #3: Oh, man. That is... I mean I don't understand any of it, but I bet if I did, that guy over there would still have his arm... and at least one of his balls.
 
 [TriggerDialog___108]
 DialogText=EDF #3: 何か足りなくないか? 何か分からないがそれをホワイトボードに追加してくれ.
+// DialogText=EDF #3: What do you think, Duke? Want to add something to the whiteboard?
 
 [TriggerDialog___111]
 DialogText=EDF #3: 何だって俺たちはそれを思い付かなかったんだ!? 何で!?
+// DialogText=EDF #3: Why didn't we think of that? Why!?!
 
 [TriggerHint___0]
-Message=ボスに近づいてダウンしている間に終わらせろ
+Message=ボスに近づいてダウンしている間に終わらせろ!
+// Message=Get close to bosses and finish them while they're down!
 
 [TriggerDialog___26]
 DialogText=EDF: 俺たちは今どうすりゃいいんだ?
+// DialogText=EDF: What the hell do we do now?
 
 [TriggerDialog___110]
 DialogText=EDF #3: マーカーを使ってあんたの戦略を教えてくれないか?
+// DialogText=EDF #3: Want to pick up a marker and show us some tactics?
 
 [TriggerDialog___49]
 DialogText=Mary Holsom: きっと前みたいに打ち負かしちゃうんでしょ..?
@@ -241,33 +308,43 @@ DialogText=Mary Holsom: 艦がここからでも見えるの! あれって 12 �
 
 [TriggerDialog___57]
 DialogText=Kate Holsom: そりゃそうでしょ, バカ. 何で戻って来たと思う? Duke がここに住んでるから! こんにちはって?
+// DialogText=Kate Holsom: Of course they are, silly. Why do you think they came back? It's because Duke lives here! Hello?
 
 [TriggerDialog___54]
 DialogText=Mary Holsom: よく分からないけど. とっても怖い.
+// DialogText=Mary Holsom: I don't know. It all still sounds pretty scary.
 
 [TriggerDialog___50]
 DialogText=TV: 今夜 12 時は世界でただ一人, Duke Nukem 氏のインタビューをお楽しみ下さい. 今夜 Nukem 氏は新しい...
+// DialogText=TV: Tune in tonight at midnight to see my interview with the one, the only Duke Nukem! He'll talk about his new-
 
 [TriggerDialog___62]
 DialogText=TV: ...尚, エイリアン艦に関する新しい情報は入って着ていません.
+// DialogText=TV: ...and there are still no reports of any activity from the alien ships.
 
 [TriggerDialog___99]
 DialogText=EDF: あとは任せた.
+// DialogText=EDF: It's all you from here on, man.
 
 [TriggerDialog___101]
 DialogText=EDF: おまえらあのデカさ見たか?
+// DialogText=EDF: You guys see the size of that thing?
 
 [TriggerDialog___94]
 DialogText=EDF: エレベーターに乗って下さい.
+// DialogText=EDF: Get on that elevator.
 
 [TriggerDialog___40]
 DialogText=EDF: 何てこった! Cycloid を見るのは初めてだ.
+// DialogText=EDF: God damn! I've never seen a Cycloid before.
 
 [TriggerDialog___36]
 DialogText=EDF:  くそ. あのくそったれの大きさを見ろ.
+// DialogText=EDF: Holy shit. Look at the size of that motherfucker.
 
 [TriggerDialog___45]
 DialogText=EDF: おまえらあのデカさ見たか?
+// DialogText=EDF: You guys see the size of that thing?
 
 [TriggerDialog___41]
 DialogText=EDF: ああ, あの一つ目の化け物にやられた.
@@ -275,64 +352,85 @@ DialogText=EDF: ああ, あの一つ目の化け物にやられた.
 
 [TriggerDialog___42]
 DialogText=EDF: あんなのどうやって倒すんだ?
+// DialogText=EDF: How do you kill something like that?
 
 [TriggerDialog___43]
 DialogText=EDF: あれを直視する事は 2 度と出来ない.
+// DialogText=EDF: I can't face that thing again.
 
 [TriggerDialog___98]
 DialogText=EDF: やっちまえ Duke.
+// DialogText=EDF: Go get 'em Duke.
 
 [TriggerDialog___35]
 DialogText=EDF: お返しの時間だ. Duke 任せた.
+// DialogText=EDF: Go on Duke, it's payback time.
 
 [TriggerDialog___100]
 DialogText=EDF: 上にいます. 気をつけて.
+// DialogText=EDF: Be careful up there.
 
 [TriggerDialog___102]
 DialogText=EDF: 何てこった, Cycloid を見るのは初めてだ.
+// DialogText=EDF: God damn, I've never seen a Cycloid before.
 
 [TriggerDialog___47]
 DialogText=EDF: 俺たちは今どうすりゃいいんだ?
+// DialogText=EDF: What the hell do we do now?
 
 [TriggerHint___3]
-Message=Press $Key(Sprint) でスプリント
+Message=$Key(Sprint) で Sprint
+// Message=Press $Key(Sprint) to Sprint
 
 [TriggerDialog___105]
 DialogText=EDF #1: そうだ! 準備はいいか? 1, 2... ブレイク!
+// DialogText=EDF #1: Right! You ready? One, two... Break!
 
 [TriggerDialog___38]
 DialogText=EDF #2: えぇと, 潰す?
+// DialogText=EDF #2: Uh, profit?
 
 [TriggerDialog___103]
 DialogText=EDF #1: ステップ 1 よし! Alpha Team は真正面から! Blake と Flank は左! Phillips と俺は周回だ. それがステップ 2. ステップ 3 は... えぇと...
+// DialogText=EDF #1: All right, step one! Alpha Team straight up the middle! Blake! Flank left! Phillips and I head around. That's step two. Step three is... uh... uh...
 
 [TriggerDialog___104]
 DialogText=EDF #3: やっちまえ, この作戦なら行ける!
+// DialogText=EDF #3: Go get 'em, Duke. You've got this!
 
 [TriggerDialog___115]
 DialogText=EDF #3: 赤のマーカーがチェリーみたいな匂いだぜ.
+// DialogText=EDF #3: Hey, check out the red marker. Smells like cherries.
 
 [TriggerDialog___1]
 DialogText=Duke: いいねぇ!
+// DialogText=Duke: It's good!
 
 [TriggerDialog___0]
 DialogText=Duke: 小便は程々にデカいコイツをあるべき所に戻すとするか.
+// DialogText=Duke: Time to stop pissing around and get this big guy back into action.
 
 [TriggerDialog___92]
 DialogText=Duke: オゥォォ.
+// DialogText=Duke: Oooo.
 
 [TriggerDialog___121]
 DialogText=Duke: んんー.
+// DialogText=Duke: Mmmm.
 
 [TriggerDialog___80]
 DialogText=Duke: オ オーイェ, そこ, いいねぇ.
+// DialogText=Duke: Oh, oh yeah, right there. Oh yeah.
 
 [TriggerDialog___120]
 DialogText=Duke: オーッ.
+// DialogText=Duke: Ohhh.
 
 [TriggerDialog___118]
 DialogText=Kate Holsom: そっちの玉で遊ぶのはおしまいっ.
+// DialogText=Kate Holsom: Duke, stop playing with your balls.
 
 [TriggerDialog___52]
 DialogText=Kate Holsom: (忍び笑い)
+// DialogText=Kate Holsom: (giggles)
 
